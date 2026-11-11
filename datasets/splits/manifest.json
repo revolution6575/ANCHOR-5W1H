@@ -1,0 +1,172 @@
+{
+  "default_enriched": "enriched_event",
+  "max_enriched_ids": 500,
+  "natural_algorithm": "IDs in main JSON order, filtered by original split; no comment lines",
+  "enriched_event_algorithm": "same event has nonempty WHY and HOW; sort IDs then cap at 500",
+  "enriched_record_legacy_algorithm": "some event has WHY and some event has HOW; sort IDs then cap at 500",
+  "compatibility_alias": "enriched_* equals enriched_record_legacy_*",
+  "splits": {
+    "CEC_all": {
+      "natural": 332,
+      "enriched_event_before_cap": 41,
+      "enriched_event_after_cap": 41,
+      "enriched_record_legacy_before_cap": 67,
+      "enriched_record_legacy_after_cap": 67,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "CMNEE_all": {
+      "natural": 2997,
+      "enriched_event_before_cap": 493,
+      "enriched_event_after_cap": 493,
+      "enriched_record_legacy_before_cap": 705,
+      "enriched_record_legacy_after_cap": 500,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "CNC-RECESS_all": {
+      "natural": 1807,
+      "enriched_event_before_cap": 88,
+      "enriched_event_after_cap": 88,
+      "enriched_record_legacy_before_cap": 145,
+      "enriched_record_legacy_after_cap": 145,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "CNC-RECESS_test": {
+      "natural": 185,
+      "enriched_event_before_cap": 7,
+      "enriched_event_after_cap": 7,
+      "enriched_record_legacy_before_cap": 9,
+      "enriched_record_legacy_after_cap": 9,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "CNC-RECESS_train": {
+      "natural": 1622,
+      "enriched_event_before_cap": 81,
+      "enriched_event_after_cap": 81,
+      "enriched_record_legacy_before_cap": 136,
+      "enriched_record_legacy_after_cap": 136,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "DEIE_all": {
+      "natural": 18936,
+      "enriched_event_before_cap": 7465,
+      "enriched_event_after_cap": 500,
+      "enriched_record_legacy_before_cap": 11122,
+      "enriched_record_legacy_after_cap": 500,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "DEIE_dev": {
+      "natural": 1961,
+      "enriched_event_before_cap": 772,
+      "enriched_event_after_cap": 500,
+      "enriched_record_legacy_before_cap": 1159,
+      "enriched_record_legacy_after_cap": 500,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "DEIE_test": {
+      "natural": 2003,
+      "enriched_event_before_cap": 849,
+      "enriched_event_after_cap": 500,
+      "enriched_record_legacy_before_cap": 1208,
+      "enriched_record_legacy_after_cap": 500,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "DEIE_train": {
+      "natural": 14972,
+      "enriched_event_before_cap": 5844,
+      "enriched_event_after_cap": 500,
+      "enriched_record_legacy_before_cap": 8755,
+      "enriched_record_legacy_after_cap": 500,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "DiscourseEE_all": {
+      "natural": 312,
+      "enriched_event_before_cap": 113,
+      "enriched_event_after_cap": 113,
+      "enriched_record_legacy_before_cap": 155,
+      "enriched_record_legacy_after_cap": 155,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "DiscourseEE_dev": {
+      "natural": 42,
+      "enriched_event_before_cap": 11,
+      "enriched_event_after_cap": 11,
+      "enriched_record_legacy_before_cap": 18,
+      "enriched_record_legacy_after_cap": 18,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "DiscourseEE_test": {
+      "natural": 99,
+      "enriched_event_before_cap": 40,
+      "enriched_event_after_cap": 40,
+      "enriched_record_legacy_before_cap": 52,
+      "enriched_record_legacy_after_cap": 52,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "DiscourseEE_train": {
+      "natural": 171,
+      "enriched_event_before_cap": 62,
+      "enriched_event_after_cap": 62,
+      "enriched_record_legacy_before_cap": 85,
+      "enriched_record_legacy_after_cap": 85,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "Flares_all": {
+      "natural": 1582,
+      "enriched_event_before_cap": 73,
+      "enriched_event_after_cap": 73,
+      "enriched_record_legacy_before_cap": 73,
+      "enriched_record_legacy_after_cap": 73,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "FrameNet_all": {
+      "natural": 13,
+      "enriched_event_before_cap": 13,
+      "enriched_event_after_cap": 13,
+      "enriched_record_legacy_before_cap": 13,
+      "enriched_record_legacy_after_cap": 13,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "Giveme5W1H_all": {
+      "natural": 96,
+      "enriched_event_before_cap": 73,
+      "enriched_event_after_cap": 73,
+      "enriched_record_legacy_before_cap": 73,
+      "enriched_record_legacy_after_cap": 73,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "OEE_all": {
+      "natural": 7,
+      "enriched_event_before_cap": 7,
+      "enriched_event_after_cap": 7,
+      "enriched_record_legacy_before_cap": 7,
+      "enriched_record_legacy_after_cap": 7,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    },
+    "PHEE_all": {
+      "natural": 28,
+      "enriched_event_before_cap": 10,
+      "enriched_event_after_cap": 10,
+      "enriched_record_legacy_before_cap": 11,
+      "enriched_record_legacy_after_cap": 11,
+      "default_enriched": "enriched_event",
+      "compatibility_alias": "enriched_record_legacy"
+    }
+  }
+}

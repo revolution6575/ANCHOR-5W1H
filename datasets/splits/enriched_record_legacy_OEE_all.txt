@@ -1,0 +1,7 @@
+oee_cfc_dev_doc-027-07_29
+oee_cfc_dev_doc-036-30_132
+oee_cfc_dev_doc-050-11_53
+oee_cfc_train_doc-021-11_192
+oee_cfc_train_doc-026-14_92
+oee_cfc_train_doc-044-20_33
+oee_cfc_train_doc-100-16_29

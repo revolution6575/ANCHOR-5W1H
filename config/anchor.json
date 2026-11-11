@@ -1,0 +1,138 @@
+{
+  "method_version": "anchor-c00-ordered-4w-v1",
+  "llm": {
+    "base_url": "http://127.0.0.1:8000/v1",
+    "api_key": "EMPTY",
+    "model": "qwen3.5-9b",
+    "temperature": 0.1,
+    "max_tokens": 2048,
+    "seed": 20260905,
+    "timeout_s": 120,
+    "max_retries": 3,
+    "retry_backoff_s": 4,
+    "concurrency": 16
+  },
+  "input": {
+    "max_listed_sentences": 40,
+    "context_pad": 1,
+    "require_syntax": true
+  },
+  "cluster": {
+    "enabled": true,
+    "max_events": 3,
+    "admit_threshold": 0.45,
+    "ev_weights": {
+      "pos": 0.3,
+      "trig": 0.3,
+      "cov": 0.25,
+      "cent": 0.15
+    }
+  },
+  "candidates": {
+    "max_non_event_units": 16,
+    "max_variants_per_unit": 2,
+    "group_variants": true,
+    "cross_sentence_core": false
+  },
+  "scoring": {
+    "typed": true,
+    "full_event_context": true,
+    "temporal": "explicit",
+    "cue_scope": "candidate",
+    "why_weights": {
+      "llm": 0.5,
+      "dir": 0.2,
+      "cue": 0.2,
+      "dist": 0.1
+    },
+    "how_weights": {
+      "llm": 0.5,
+      "sub": 0.25,
+      "sty": 0.15,
+      "cue": 0.1
+    },
+    "evaluation": "exhaustive",
+    "query_window": 8,
+    "backend": "cooperative"
+  },
+  "selection": {
+    "thresholds": {
+      "why": 0.4252,
+      "how": 0.4252
+    },
+    "max_fillers": {
+      "why": 1,
+      "how": 1
+    },
+    "exclusive_roles": true
+  },
+  "output": {
+    "include_trace": true
+  },
+  "cache": {
+    "enabled": true,
+    "dir": "outputs/llm_cache"
+  },
+  "runtime": {
+    "documents": 1,
+    "max_inflight": 16
+  },
+  "discriminator": {
+    "checkpoint": "checkpoints/discriminator",
+    "device": "cuda",
+    "window": 512,
+    "overlap": 128,
+    "projection": 256,
+    "rank": 64,
+    "dropout": 0.1,
+    "boundary_candidates": true,
+    "boundary_top_positions": 32,
+    "boundary_top_spans": 8,
+    "max_span_tokens": 256,
+    "use_4w": true,
+    "fusion": "gated",
+    "conflict": "exact",
+    "temperatures": {
+      "why": 0.5,
+      "how": 2.0
+    },
+    "boundary_lambdas": {
+      "why": 0.25,
+      "how": 0.5
+    },
+    "thresholds": {
+      "why": 0.2,
+      "how": 0.25
+    },
+    "window_batch_size": 4,
+    "offset_policy": "content-whitespace-v1",
+    "boundary_head": true,
+    "hard_negatives": true,
+    "architecture": "R",
+    "source_weight": "equal",
+    "training_rank_lambdas": {
+      "why": 0.5,
+      "how": 0.5
+    }
+  },
+  "s1_factorial": {
+    "enabled": true,
+    "mode": "joint",
+    "anchor_policy": "post",
+    "standardize_what_guidance": true,
+    "version": "s1-ordered-4w-v1"
+  },
+  "cooperative": {
+    "enabled": true,
+    "version": "coop-4w-v1",
+    "head_checkpoint": "checkpoints/four_w",
+    "top_positions": 32,
+    "learned_candidates": 6,
+    "syntax_candidates": 2,
+    "max_span_tokens": 256,
+    "refine_scope": "all_retained",
+    "use_candidates": true,
+    "refresh_why_how": true,
+    "allow_outside": true
+  }
+}

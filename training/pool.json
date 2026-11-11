@@ -1,0 +1,4334 @@
+[
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_732",
+    "text_sha256": "39188947485fd3db78c5d65aca4bee2745c6c93ddf5d9d57b88a9e779093e3de",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_840",
+    "text_sha256": "2f6db594caec02a02ef38317b4318c024b3f8c0140ebd28155345cb172b1f749",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_132",
+    "text_sha256": "55ea2c02cff2b458b7e159b0367254be74a0add49b68a6ab81422277876e9c79",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1008",
+    "text_sha256": "fd27942422824e775d2a8684e37a6e9c0e9657dd05b58a522f44129a626e0701",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_496",
+    "text_sha256": "00a64ff4eef092514adcf6023c388f1425bcf7a85670ff9a05597179a903c0f9",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_611",
+    "text_sha256": "b96e728b140b4cd69fbf8dfb9e98ebc74906cf14631f18cbed28388dcabc7e79",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_801",
+    "text_sha256": "79d69cd5efa9863b64a9d107f76296165d6d0d6b4370d2d4fe4e0dc61145fd18",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_49",
+    "text_sha256": "625c58e305c75a6a90baf03ffc36b7ddfd9a9b07d0745d71b3ec3fcba47ca5b4",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_847",
+    "text_sha256": "be67f51fd72f5e92d91779b3235c09ed15f3e8009741ea3386b8c9771eba7b2f",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1318",
+    "text_sha256": "3cb784bc96e6e8257eb616ece041f286824988f766c4f922d56a5fcf0fae6867",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1493",
+    "text_sha256": "6022d199ae6c3e1b612bb13b3d55439aa350bae9b409eeaf712fc727a3d9ddcb",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1313",
+    "text_sha256": "cd0b735ea6f814197856ea08075593679e4d4058105395ff711d0f3ccd8a0070",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_949",
+    "text_sha256": "c802b592bd5973949dcd77cb0af85b3a1ceb6072b1ca266f9a38c68cedd4fce7",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_266",
+    "text_sha256": "126f293af32307facc89d22f022985733c93a959ea338a1f1a5b6b329cc922a9",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1246",
+    "text_sha256": "633d9e6674e2454493e5f0454401b3bb6b2f08745ad3d38c19e7f81f0eec0574",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_982",
+    "text_sha256": "3538c036484836b26b633e7ae7108c8a4d87892a3995422a13dda5bef804c7e5",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1075",
+    "text_sha256": "327dfe620315050dd6df75e46cdc828c7dbe509b839202c7c664beaddeafd2ca",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_786",
+    "text_sha256": "0a6e4cb5cef48578905741724c6379bc9655048e8517c9dfc0294512ce006f37",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_449",
+    "text_sha256": "b25c85799e92a53712dfd47547e78eea907dfa56d6a4b0a26ba3bf3b9771f853",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1377",
+    "text_sha256": "be4af716b9d5e7457934fd54b6c57bd203d8d12b12af7dca57dc5c039dcc3a35",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1157",
+    "text_sha256": "41904df62f9eb47b5cb6d5606474e1644274e3c6534b9d2cf98612d67f2e6c75",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1091",
+    "text_sha256": "9a8293c0cca66a2eebcb3e49d7c2876fce409c2979d48899729e32183f6d1d4b",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_371",
+    "text_sha256": "1f414d7a8bac387bf14d35f104a2060a5c16effaa2d809b140ad572c08ef9307",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_11",
+    "text_sha256": "cdb948851f9b51b60eb4b089032c512a99a2be135eb9765a6e0e1aa7795c1ca6",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_713",
+    "text_sha256": "154a9911114b486a12f582dcb59f538ef0183dd138a0322253a70d7e00d6e29d",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_983",
+    "text_sha256": "7d21b1644c0bae64541a7ef2d8245c9aa627e2007ce607c3ebf56674dd838738",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_123",
+    "text_sha256": "a4403b76f7f35a90f22188bb09887cda73ceef2a5a626a8e60f5f186682184d0",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_677",
+    "text_sha256": "7fe131a11412c308c00e4843a9244e1f1f5662505a62294b2130f68d59a9a58d",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_477",
+    "text_sha256": "dcf92a41cb7e523a18b9decee37ded21258e3a9351ba94daf41b06f2a3214681",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_487",
+    "text_sha256": "e053fbadc1adc2d17761b5cf936b81c1e43f8b7bb108c8bbd936aaa882e1beb4",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_618",
+    "text_sha256": "a8543cb8397f85b15cad02e79a6b8b9ecaca2fdf667037212ea3235c6da4ac88",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1320",
+    "text_sha256": "43de22169f1f0f3c247470fec6a48220a1563cabad04df91fc84bcfce666d8a1",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_323",
+    "text_sha256": "6ee4736da68ad695408d3fb0437b0433903f74db0cef64393032995d78de0659",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_58",
+    "text_sha256": "6e7a70d3cb13e1d1b6dba2d80b3a889f486a89fcf75ac1413593743e83f9ea95",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_988",
+    "text_sha256": "95b257c437f60ef645fd1ccea165c9ed6815908c24695ade7149a5115eb5cb46",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_257",
+    "text_sha256": "57ed5b694b7c8f83bacc86a33751ba0f46ac803cb9388b64532dcbb91d6ba4ba",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1420",
+    "text_sha256": "a3f4a37b270d57e33d86dfb53870fa6e23e0350d0ec9dc1ba4d1a90265f0ede4",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_650",
+    "text_sha256": "3aff017e203858d39ab3a969446be34920ca204896dd5edc49afcbbdfe60452a",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1390",
+    "text_sha256": "141b18c80154cbcce91a83bcb20d2e6d2412e17818317caa3947ad2aad4c351c",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1043",
+    "text_sha256": "88565532ebac551852cf1621f907703119c1dc5a941d7d9d15707be0318d7326",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_432",
+    "text_sha256": "14aa01f9f17f2db0ff0963d28530998a411e0d296ed09e882386606f67be559e",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_773",
+    "text_sha256": "44bcaa38fcd11ec4e699a9de8cdf6f11b57a9b5ad17001ca871ec46352010c3c",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_625",
+    "text_sha256": "d4e081d05fe0ce3e654bcd701095eebb7f6fe1d339da6ddf0c548bbd97f262ab",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1114",
+    "text_sha256": "4540c81b9bdc64d4827a86b8fc9eb641d0addb374a35e919ab111a9e68495c32",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_962",
+    "text_sha256": "8f71064bbd8de22fd7b5ba548ec68ec9795a594e1a51230ea6df31d0351db743",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1187",
+    "text_sha256": "c9f520df045c872df32ff31b5e282839bf5a61d0f4ea4126e79106816233e2c0",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_438",
+    "text_sha256": "62146e357f221dcbb3e199f822066cc02ae6578eb35286669d51fbe90bc2ae5e",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_524",
+    "text_sha256": "943dbdc1b066d57a4c6c884edf33d3649d4f7ccbc1ae2cbb045ddd46b716ddeb",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1292",
+    "text_sha256": "56ee48b862d3962c304be685d5b19d5733cec3011ea54197c934087c4f389716",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_842",
+    "text_sha256": "731df8764e463ab451ed5b56520c88bbbf389ca11e4fd0a11e9a6a18c71660b0",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1103",
+    "text_sha256": "9ed9eb46845328d8addc7c20b2071b34f4a7a5848eda34cd05759d81d3dc7fa0",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_926",
+    "text_sha256": "5bab96c4dee552ad6f90c722b1855087c42a5bc40a9f4c9b87e09afb6f0bbecd",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_499",
+    "text_sha256": "00d1df085990da1d7ebd76b1aa823716781996cbe3d3a03a3710515f6c002c73",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1083",
+    "text_sha256": "3c0783e35e7df130234d4408d24c2ae0fc230cbc50299c737ab255b9cdf9b980",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_163",
+    "text_sha256": "9388ec136e75e0b37dfa5d07b9f04dd1d57bbe03b20166b803da0d1a6b2e3482",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_570",
+    "text_sha256": "0d234f846a787652a8410b3af67a73f8ad95ca6cc454bbf8bd41118c89919fea",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1182",
+    "text_sha256": "6f9c2e6a897a38b202238ca66a0f07122d4554549d827101ee75e2a2f126ab74",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_758",
+    "text_sha256": "aca5fb99d4edb9a8955948fc6fac5aef9b490607beb1f0a594adc4cb577a3120",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_956",
+    "text_sha256": "98953020cf502b2bd9d360ab08ebbf3e0dac4b9986afebf89c6e3fc78c439359",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_894",
+    "text_sha256": "88f30e3c173af9070ba2a136a250544a9aa660e9c8960e42a9825c8f3be850ca",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_660",
+    "text_sha256": "3692e81df440cb03c38db9660dca871acbf2a9d2c2e968549aa7c9d9254be62d",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_999",
+    "text_sha256": "022146aea2ebee6897825ffd658789f23a8a03eccfab8169c00a81c5a8f1bea4",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_4",
+    "text_sha256": "4237d953a1d7d3f0d82309ec9ed4f5412ae60ace72aa281242b6956c6ada6639",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1012",
+    "text_sha256": "2208ad4632120005f1952fbc47c7c39a30c440b89a35a3b340183df10223064b",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1422",
+    "text_sha256": "b6b01bdcd6c8a7341a021dc34d90992cb611ca5b32cb675d8ad15da94da72d51",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1003",
+    "text_sha256": "38448652084e8857b8151ed454279668ce0f63991c4d54216522fae5efb13bb5",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_377",
+    "text_sha256": "0dec355c8a7dd1eead68175b433d911357a3d464525dcc261b4459bdcf1683e6",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1438",
+    "text_sha256": "3557aefb65c3568215ebe05241ef8282364c36dede646d1ffc88e2ef15b57252",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_332",
+    "text_sha256": "6f2b9aa0551027e0295f1f7e052622eb705599eb32092703cd1fb5d0a0986e5b",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1460",
+    "text_sha256": "77869f584e5fd7444c4997d9781aad5dab910ce4e201d5f9547473708c0feb44",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1441",
+    "text_sha256": "cdbc3c9667a0831d38058c9a27a8e09862a630329b9e11c94ddf05f4b9b1d9cc",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_678",
+    "text_sha256": "714837a2c732185442037473c971b71c1c8794e78032a8167daa1c77fa5e27d7",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_97",
+    "text_sha256": "057da6fc2a2d4c7d50b009bdde41049e564a3fc08ee00db6b8bb480e314f747b",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1397",
+    "text_sha256": "901e322a4e5773d9d2c3594cf1126aca0f350366bb8006a4b175ff699bc79833",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_882",
+    "text_sha256": "7e406418ac44e2955d974bfc5566fe0572dcdfab293d4ef1ca652eef8299331f",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_958",
+    "text_sha256": "75a7e56ee2b24313ea3e0b8ad9a3178111ad8de3854f444a9fa04f2e4a493617",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1322",
+    "text_sha256": "9c442a6b5e62333ed751b42ae798bf9b7989833c011b7ac673d8b555fabec44a",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1569",
+    "text_sha256": "d9d5fef9607da52bb482c35c4894e3b15805a4f20886486966c06595b85bc2e4",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1228",
+    "text_sha256": "51c14430fa03b83b2fa6a0a19de6f3fcfbf838be8a66276173416cfcfc89f197",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_935",
+    "text_sha256": "d7d972807036a2da444412a5f88b7cccdc4bc8d856005481b8406696879db3ed",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1392",
+    "text_sha256": "395501ffb53279c1236157ae4556721531ce9c960ac69edac96c71645354f8a7",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_883",
+    "text_sha256": "54a3d5d0b140293e790a053a532e7161a57e585f4e2ee9e7847be3ea9d0dfbcc",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_293",
+    "text_sha256": "aed002c6c52558acb4548dfc2b3923835ba2f6e25e0256b3262ce71ae3ced902",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_207",
+    "text_sha256": "af1754981b4dae0db79f00ceeed1ea2b15a78dafc6d8e32483ba575c36b0acdf",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1192",
+    "text_sha256": "6b2ac7820ad975bb4a298e4c83619cd7c5b239589b28b5091599018dced02414",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_90",
+    "text_sha256": "993492fb6102bcdcd2d75e8b84d5a49376f6c6fdc6d863c93adca2cd8bfe21c2",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_961",
+    "text_sha256": "7c203caaba2cf1ea3b2b4f217e5df3be836b4f66cd8447e6ac07e9557731bb84",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1085",
+    "text_sha256": "4410be61f2ffd112d0f993c33ee04870f341a5c2e0dcb603de61655de51fe4e7",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1425",
+    "text_sha256": "5fa45f093975b5953edd11478dbd4c1f91b5b1bc1bdfea6c3d95493a6ed9081b",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1007",
+    "text_sha256": "5c9f9466e6ffa5a4129b7355205a4ed5d58599a7f972af6d314abc37b9afa7be",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1488",
+    "text_sha256": "1002d3697b38c3e8b55c63e9abd981931deb4928a2748044c55368729b4dc81c",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1543",
+    "text_sha256": "b0eb7720ede74660364fb24a36a5394fd3fd4e6fc67c8f9d12e4f3abdd76a15a",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_913",
+    "text_sha256": "8d1b3cf80c19101e4b3e38f621f62cb14c51e1ac56eae65cb045ae2d5f4bb626",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_627",
+    "text_sha256": "77fbb72afe5fe1e34be02a28f4bd588aa6b606bcfd4d432c6227099629a9c0e6",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_259",
+    "text_sha256": "9486543c9a50975672b2f4429d4453277ff3e63f9c44ad57e65526dd4c4ac272",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_171",
+    "text_sha256": "3968f6e64ee59f54f6cf79504420027abcc6571c492a70f50eacd9dde7cb8fba",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1057",
+    "text_sha256": "c04a9cafc81613620ffb351a41eb62f43d47f463af5fcbdda68655cdb08f191a",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1428",
+    "text_sha256": "feedb880e334e6dffe2c35adc4f5101d0e3402540c2b96f6809595d66554e00c",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_334",
+    "text_sha256": "09fbe670a5fbfcec751eb70d754b0984506ec651adeee3a724ec1ac71bfd9d42",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_513",
+    "text_sha256": "1a1748ccc2211454e6044bd27ff4551e771d31a94f77a7699d5d2e873c1b1d2b",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1413",
+    "text_sha256": "21bdaef2bd410584300bc89b94eb4ff3437d3fbe3e140be07725240778ee27b7",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_306",
+    "text_sha256": "d6f204fffbe8ee18b114bc5cc98c1f956dc5e5a438ca0506923c40fa7dfa8a07",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1291",
+    "text_sha256": "5ebe094b02b735010348850ad6ca52377d400b06018822ca8ace02c0af5a6400",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_979",
+    "text_sha256": "01fe530790e68926a54a32f974a15a4aebe698749bf716bac00469aef16caec9",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_720",
+    "text_sha256": "3ca35199312d59012791258ed424de6079b260f874b618e49a78ed9cf308118c",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1051",
+    "text_sha256": "411cbecb2b456cf1798bc3d8c8d120e847ba54e3696d0a2be17387ed224aa7ea",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_368",
+    "text_sha256": "517264ea44714f41dde379180a0b6c492b73d29212ea4ba9142933949497d938",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1010",
+    "text_sha256": "8439e135c9348f8e5ce806d05a12fc2dce511a654d19727ba984b459666fb6f3",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_493",
+    "text_sha256": "5ba6e37540d2f0c21a5e03268f0fce26cc891c6819cd4dbca859048e3b4f068c",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_517",
+    "text_sha256": "22776e1cd4eb65d2ca3a1e9314efa17ed362207badb402c7587faac60415a6ce",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_67",
+    "text_sha256": "ca34f2a79afe2fdc61e20ef8d151ff98796339e6d57823c2f4f65fd02801d2d4",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1452",
+    "text_sha256": "372073527bad546c0e0023a8221ac8c7e6b8e72961b34614a35ee34d6af76bad",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1423",
+    "text_sha256": "8f5f53bcb4ecb30882cddb36400ba840abd54b35c525885391909a3099559ee4",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_360",
+    "text_sha256": "00f7a7bb58be1a7fa8aab075277fd020e11813f1f3c03d04ca921e612a47f92f",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_434",
+    "text_sha256": "1cfc0cadb3ff7576d99ecaffe925ca09593cd3ec60961f62bebdb099a68b7e35",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1119",
+    "text_sha256": "4398046f5049b579665f3438213873b36fcfc56d510e3d7c33df15a634ede85a",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_369",
+    "text_sha256": "63ab19ff2fb0ec57424513e5dc73d2bdcc119d428f0b053bf5b98b4f15b4e277",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_127",
+    "text_sha256": "55a80d765a795b87f98d1a9d2f83089b034d6f71f59a31c8145dc1c7fbc943da",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_339",
+    "text_sha256": "f4ee4acf6d0ce956b84842fb33ced6a74bc05c77dba8be0157ed2da837ecee2d",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1315",
+    "text_sha256": "42a9ae5f28a655753a9efd88b9235d8008a1493ab53abd5e25129d916f5c98da",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_308",
+    "text_sha256": "b4e826e1ca5fc70809162558c760e5372dad636ef66745251def4e58b204946b",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_378",
+    "text_sha256": "39d654e8fe041bb46172399f066a5bf5a91236cd9e727fea21a001305ab2eb47",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_663",
+    "text_sha256": "4dcf901f69e2ca9a5854a731f1bd107c7657e5722605429d9cc08666fe090980",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1556",
+    "text_sha256": "013e7d0d9d93b293b9abcdf2bcb9438c0b66a3256082b32dc42cd0587dcf2aa9",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1207",
+    "text_sha256": "2106d8b904715400a44b9be9a34251383d1b7371ddf0abc3a53a1fb00f3ff4eb",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_494",
+    "text_sha256": "44c1f31c570c9cb05e46d2cb07c1ae316c74fb10b08ec7247d170c0a42924e57",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1573",
+    "text_sha256": "f0488b710333b698445a2656b6acd46cd87282ab579c80cfca05532e9f34a332",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1193",
+    "text_sha256": "57dfc3b975eefb50a42ac8938e37a6f2b84e2a8ab81f0bad4f8b02327b69b8af",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_609",
+    "text_sha256": "f96f710b105b057b2e83400697d0e69c83bdc8d4f5c796d295dae7499b3a1185",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1361",
+    "text_sha256": "81049aae1e918b3d6b81fc5cb15d3cbcb4e658214750216468be265c43c6219a",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1150",
+    "text_sha256": "0e2a274d927bebf87faf7b08e4a23cbad84aac5d23b269086fe1cf71f6dcffd3",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_672",
+    "text_sha256": "fa56d598890cab078be352379625cb24cfd3402122bc4025300d37f657a15669",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1297",
+    "text_sha256": "2bb0fa5d654cd0c01038206831959a14bc75ce655d0df4a85915cf7366a9d4a3",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_390",
+    "text_sha256": "1611d94d8824cbe61ea784009fd3952acb854971f7b2eb4f7b62cd180b0aa966",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_396",
+    "text_sha256": "382c4a447c1b81e6240d5ff6fcc50f654e989a53bb86aa1727e6ca19fc150e9e",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1041",
+    "text_sha256": "1da9452cac0e5f867048a3f970e81f00aa1cfb065e0c1d82accb754791793a7b",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_204",
+    "text_sha256": "695f435233a2f3d17f0219ad54cac01c466cb23aaaa8385ed3934da23bcb7f85",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_896",
+    "text_sha256": "fbab1f77bc82161ec8cf9d26d15f30c738c42ef454921accf6eddab2e12d379d",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_336",
+    "text_sha256": "7ce494bf25cdff81570fc91a1ccadf7f0bc667d0d3e2e9b7185501c024583457",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1218",
+    "text_sha256": "5551a63ccd12c41d023aa5acf04888b5aaa2648ed426119f190a5d23706aea42",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1473",
+    "text_sha256": "ab9433953814f60b29107071d6e58decc055455cbeb057d6be1233e85035a346",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_770",
+    "text_sha256": "c318f73a40dadffa856e66502adcfa2565c74b2186bf5f0123d59ba3bcfb78a8",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_191",
+    "text_sha256": "2315b1a75d8a2501a4b3981e312a07b27b1a4dd5b269eb803a1e902759405a10",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_199",
+    "text_sha256": "510d12d7da0baef3ed384b062bd4814e09a3f0b174fe217f3b868bb3834cbe98",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1158",
+    "text_sha256": "1860e5069b04b56b90466b6beccbed81258d63e0d6b226c0cd7bdaadea4bb354",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1398",
+    "text_sha256": "e07fe3fd48e65de5ff163c7ed92f093b3c3fff043467d07b424c1adb1a515088",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1039",
+    "text_sha256": "60618df6c9ba0b5b9e505205b7021f2d54048dbcff9e1bca57ac9f6393619d98",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_346",
+    "text_sha256": "80b3d6d43f3ca5c7ecd58c470f91404c56a939ddaa7d4cc50ecfa99d83ae5c64",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_798",
+    "text_sha256": "9d823fcbf70d58a4769c1de98ade63fc7c2a03db79509d26cef1553ae232533b",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_307",
+    "text_sha256": "39f3f317582f1782311dcaaf180bbf3af1cffe26d1d29818b055c201c492e223",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_920",
+    "text_sha256": "8713577914abae686c1c89d663c6500710b5cc11a4c55f01acb0011043b91ef1",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_749",
+    "text_sha256": "0ab307f689d4508d3c72d736c2eddf9228f078d236d81d068b46f9e0e30fa796",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_316",
+    "text_sha256": "2d67b5d28f7d73de3f15080ddd5ac940e7da8787ed56ed552e81b20c53af24c3",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_342",
+    "text_sha256": "55722106f3f49c2108cb7e4e3603f9e962961185327c209da722e0f257ad4ba8",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1518",
+    "text_sha256": "2f23b98eb6bcfba4724e2461b06f134f59a5d9818245d38f9dd8b6e3cfb141b9",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_1084",
+    "text_sha256": "7e74b35240bbedec8ce75cdc2c97967c1edf75e4d6bc8ed7218cd6120cd4092d",
+    "fold": 1
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_563",
+    "text_sha256": "c68dd1e3f5e1e067bf1976660c2d4834aeffd9cfb68280fd71e7789203d997b7",
+    "fold": 0
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_115",
+    "text_sha256": "96db2d29d2ce90217c5f5f6498870f5dbe74a330e607f110d5b1b41e6843e152",
+    "fold": 2
+  },
+  {
+    "dataset": "Flares",
+    "doc_id": "flares_113",
+    "text_sha256": "91e1092d52076a5da25c25956517cedd4c84cb032f3e2a04e2e5d234db8d2715",
+    "fold": 1
+  },
+  {
+    "dataset": "Giveme5W1H",
+    "doc_id": "g5w1h_1667b720a919a4cd",
+    "text_sha256": "5d40230984a78aed539cee47b740859fb29b6f48a07104f37ab89718d26c3ef7",
+    "fold": 2
+  },
+  {
+    "dataset": "Giveme5W1H",
+    "doc_id": "g5w1h_1e471fa6844bce9e",
+    "text_sha256": "02ce9e044a8dcb63ce63b8672aa95a287aa8d0fc2108692fffecdb10392ea9cb",
+    "fold": 1
+  },
+  {
+    "dataset": "Giveme5W1H",
+    "doc_id": "g5w1h_3819549c5ea2cdd5",
+    "text_sha256": "cc054209e663fab88494dfd22b2d46be0a33a4ebe0e73fa6f9054b7e4888878c",
+    "fold": 2
+  },
+  {
+    "dataset": "Giveme5W1H",
+    "doc_id": "g5w1h_6b4108b35035f8ac",
+    "text_sha256": "a27c9677c0a8e265a07cf85a9cb90a3ed96306ca9d3362d04ccae8492ef3d75a",
+    "fold": 1
+  },
+  {
+    "dataset": "Giveme5W1H",
+    "doc_id": "g5w1h_7aa3386de0c61365",
+    "text_sha256": "9de0b2bc18ef3f805384bf2ecece0fa557be430c5164bdf4b744f8e938848354",
+    "fold": 1
+  },
+  {
+    "dataset": "Giveme5W1H",
+    "doc_id": "g5w1h_7b1f91bcb6dc19b7",
+    "text_sha256": "ed8a3caa97176f2a2fcef809b0add2f0f28983a418b88f2a6dcfdfa4b9da013f",
+    "fold": 1
+  },
+  {
+    "dataset": "Giveme5W1H",
+    "doc_id": "g5w1h_9fb2f7a041c350a0",
+    "text_sha256": "7f88ef0c99f104c32e907576766532780493f1a5bdab9e9ba7358ac6d407c8bc",
+    "fold": 2
+  },
+  {
+    "dataset": "Giveme5W1H",
+    "doc_id": "g5w1h_e70be9ce7c3c1d54",
+    "text_sha256": "69c7f0f924074f4e6b7931831acb41687bc7304cba3618aa1ae4e392dfbc6d7b",
+    "fold": 2
+  },
+  {
+    "dataset": "Giveme5W1H",
+    "doc_id": "g5w1h_e8a979de28fef3fd",
+    "text_sha256": "f4ac8e339631d8bcaf762de65ca9ba474a8fcd1360bd94f5e4085c7a00e85f7e",
+    "fold": 0
+  },
+  {
+    "dataset": "Giveme5W1H",
+    "doc_id": "g5w1h_f5f5577d9812350a",
+    "text_sha256": "c32ad0acbe4098f3516c9a07c2ff2ff3c2a489398a48ecbee25ffc0c07602f23",
+    "fold": 2
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "食物中毒-北京顺义工地约百名工人食物中毒",
+    "text_sha256": "6b82ee2e4ec56b3da75b26bc951e7d90f5673dc5208d693aba11e66bb39b26d0",
+    "fold": 2
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "食物中毒-新加坡发生集体食物中毒事件1人死亡",
+    "text_sha256": "c8f768666ec1ab2b5d5b3dba4dd1b6ebfc472c257dbd97a0bdb353f49aec81b7",
+    "fold": 1
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "食物中毒-渭南发生一起疑似食物中毒事件",
+    "text_sha256": "1bb27c25123219932e1f566da971d76c519651e3c134bacbbee6a132a34d4474",
+    "fold": 1
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "食物中毒-湖北襄樊一所学校22名学生食物中毒",
+    "text_sha256": "f99ccbe3be958f35a65531104be11fffd57f71fdd647688c0d5908513bb8a6ec",
+    "fold": 0
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "食物中毒-陕西丹凤54名中学生食用生豆角中毒",
+    "text_sha256": "ba26fef3034e1ef5f466dab5d089f34068ee754c1314becf1d8cfa9e98316ab8",
+    "fold": 1
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "地震-俄罗斯地震死亡人数升至12人",
+    "text_sha256": "1529f70c1e5459ddbcfeed2a6bd6c650a2284c74b0c5142283a4b329a0b3b40b",
+    "fold": 1
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "地震-尼加拉瓜太平洋海域发生６.６级地震",
+    "text_sha256": "bd1eed01da80be22904a447bb5b29e23c976cbca6520e892705fa425bf2c72dc",
+    "fold": 2
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "地震-新西兰东北部海域发生6.6级地震",
+    "text_sha256": "cfe4c96043171e51503a899e711913728768df437c26b80af458a628ea2746a6",
+    "fold": 2
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "火灾-云南大理森林火灾明火扑灭过火面积约200亩",
+    "text_sha256": "9d263e025066cebd907a6d194db7dc4b9c63cb09682ee7d01c43c30e2bd70cac",
+    "fold": 0
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "火灾-俄西伯利亚一民宅火灾致7人死亡",
+    "text_sha256": "e406bb9b621ac60b1dd7996682cfcbb8546b174c135e871336effd38ace9ddd5",
+    "fold": 0
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "火灾-兰坪“12·2”大火基本扑灭",
+    "text_sha256": "6bddb8c061a87ccf7bd020be51154d5688f630958cf451ab5df28bba43e562a0",
+    "fold": 2
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "火灾-兰州火灾事故",
+    "text_sha256": "2ee4fce1e7bc0fda040eccf395a288573457ad64d0f96e7a6b15e8cd03b4c795",
+    "fold": 2
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "火灾-南京一50层高楼发生火灾",
+    "text_sha256": "a6a2405d731900519808fca339a8833258658aef9f33be6512936b1d0dd8d15a",
+    "fold": 0
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "火灾-安康发生多起山林火灾多数为使用明火不当引发",
+    "text_sha256": "00f5241f7e53dbeb5758792cc832826f79dd24c092cfc3484013d8a5784efab4",
+    "fold": 1
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "火灾-广州番禺商铺火灾：一名女子被烧死",
+    "text_sha256": "7827999dffa806a84eb80ab92d9db611eccf1f466e2878d4c0cb3977d8beea4f",
+    "fold": 2
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "火灾-新疆阿勒泰地区布尔津县发生森林火灾",
+    "text_sha256": "e1c965a5f753f48c352d13442e0384d7d41f52bd62603668f9bf8d4ebd30de44",
+    "fold": 1
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "火灾-武汉汉正街火灾造成至少10人受伤",
+    "text_sha256": "272f1d566e9d216f635edafe6368724393b813e55febe14bdfbed7acd4212598",
+    "fold": 1
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "火灾-温岭鞋厂火灾16人死亡",
+    "text_sha256": "690016470accbd9e328974a55c62b64e81ef4dc5dd72e03d9c83bf09ba4eed36",
+    "fold": 2
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "火灾-虹口区赤峰路373弄一民住宅起火无人员伤亡",
+    "text_sha256": "53942d26ade1685f8108b4c9262f8944700e93b42407f778ed70a85acabeac9b",
+    "fold": 2
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "火灾-马尼拉华人区住宅发生火灾一华人老妇被烧伤",
+    "text_sha256": "5a2dbe5f74add5037e533cb0b09661d039905ec299bec07539272bd59958c574",
+    "fold": 2
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "交通事故-兴义往安龙方向高速路顶效二号隧道内发生交通事故",
+    "text_sha256": "a0ac6303764ea5ebd44f3b8aef23cdff338c0d891f6c54ddd1a1088d4a879143",
+    "fold": 0
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "交通事故-杭州一槽罐车压扁小轿车小车司机当场丧生",
+    "text_sha256": "128f52ebca5c6af02873a954805134104550b35c5c7a23689f05ac4bb7a4fbe7",
+    "fold": 2
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "交通事故-河南承载学生事故车辆超载19人2名司机被刑拘",
+    "text_sha256": "88108082d03748895b9a43b604ff16c616a7a62f37b348a0ef105aaf5d072346",
+    "fold": 1
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "交通事故-河南社旗发生交通事故致11人死亡逃逸司机已被控制",
+    "text_sha256": "405477475594cffaf5ea457e305a87355575a4085e310623505b341853c9dcdc",
+    "fold": 1
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "交通事故-澄城一工商执法车撞上摩托车2人死亡1人重伤",
+    "text_sha256": "292c3b89f23e84216db3fe76e2342bbe8f62e5cfeaa82d1e54f19a2cbc1dcf5c",
+    "fold": 2
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "交通事故-苏州三车追尾造成4死3伤",
+    "text_sha256": "d9ca5d04b78e05f5d4948e951dc33afb701ff9488aa450a68f7c17ea4884ca06",
+    "fold": 1
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "交通事故-香港长青隧道5车相撞1人亡",
+    "text_sha256": "ed888681dfaf608ccd9ca33f36c126a631857ea02e166a038e8f3c61dbfd0a2c",
+    "fold": 0
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "恐怖袭击-埃及西奈半岛发生恐怖袭击4名韩国人死亡",
+    "text_sha256": "996bbc442065bbc672dc3a86674351f4f432128aca5555d9bcfe80ce60efc4b9",
+    "fold": 1
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "恐怖袭击-孟买发生系列爆炸至少200人死亡",
+    "text_sha256": "2517f7daca84fb03987fd0b6d4a368be251c249ead38628533da252c7837d12f",
+    "fold": 0
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "恐怖袭击-巴基斯坦酒店发生爆炸袭击已致18人死亡",
+    "text_sha256": "2de7ec97c0e4b1fd916a511ac19220b40a405a90a73aa6e49c576bdd93283ee2",
+    "fold": 0
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "恐怖袭击-昆明火车站恐怖袭击27人遇难一百多人受伤",
+    "text_sha256": "d4105c1d73efcbf02009af3ab107f551b2cb8b69fe184252cce6959e3d56b39e",
+    "fold": 0
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "恐怖袭击-目击者描述印尼爆炸案惨景到处是炸断的肢体",
+    "text_sha256": "5dad9221c9610f4d7c267518acac3693336d30b5c10d3e3ca9b5a88b6a9256e2",
+    "fold": 1
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "恐怖袭击-莫斯科一市场爆炸至少10人死亡",
+    "text_sha256": "ec2e00bfbacb39e526f94dabd0d4d6a13bebfa1bc90a4140b10cb7a1cd9c4c18",
+    "fold": 2
+  },
+  {
+    "dataset": "CEC",
+    "doc_id": "恐怖袭击-莫斯科地铁爆炸事件",
+    "text_sha256": "8689b33f4823fbdbb9364ca6251d4f377631bfbd6167ad614856a4bbe3b1d9cc",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0006",
+    "text_sha256": "03c77b1319a506022951344a6f20e075aa0aa58da457a402df028ff1aff9162a",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0022",
+    "text_sha256": "be456e4943f6c4c8f86533bc42794bd2b0e4fbc68435b5a2d362c89046f7c808",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0033",
+    "text_sha256": "632baf8028411e6dc4d05feebbff71932a7e52f04dc43484cc36f6acd9f3d7a5",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0063",
+    "text_sha256": "c8475c6ba7b8a7f8c510a48364f8cee4f144f40cb2f19164d3a43600d80e446d",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0078",
+    "text_sha256": "74b85bc053e6a8071baaf2f6d8e8c6a7f7e1d88b342554ec881ee1a2a422f17e",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0092",
+    "text_sha256": "bb477159610d79119171f6f04163ddb122441d31e8b325d7615a4d968afc47f4",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0099",
+    "text_sha256": "154a16858911831dfd704e2ad52738eb0f126bdcdaf908c8d6c3d45ddccf3576",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0111",
+    "text_sha256": "e8e098fad4bc6f58d3bc10f0451cd7138ac200a1ad015dc89f2c551159f537fa",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0112",
+    "text_sha256": "5c5b52b1d29e73c05a09e7b29b6da4750add6d8b9b7c0f13472ea0b66f12b44a",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0116",
+    "text_sha256": "76fab686104e8bc32f96bea1bacf8c2e10a4db104c292543c2983015ab19269a",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0128",
+    "text_sha256": "aa24451ea0f4a12479db50da16ec40bc7b20ea0b2a012bfc0cc88fe85d337f1d",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0152",
+    "text_sha256": "fa6400f2ec3da29bbe3872f588c5dd1688a05d98dcfad175489c86b1cb291aa7",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0154",
+    "text_sha256": "a625d670145d315b5009193f79bd11d27199c44d8e6b752b6630681efbdaf7ef",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0160",
+    "text_sha256": "b90a29080cf0e5b180d46ec8cfede898f853cc7bfc576ab4e78b93ddaeb6b475",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0162",
+    "text_sha256": "563efdcd0cd40c17e9b4268f0837125a0f2137fbc5bd41eee89f8d18f4b66c7b",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0165",
+    "text_sha256": "b45c7f9ed51b272124fda3c34f8bebaa36f3cb5c514d6f8d5bc16add3cacbfbe",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0170",
+    "text_sha256": "1a25b1f301f0f7eb39a3fe8ee6b4acdcfcdbe8312b76841ba9652dc0458e0202",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0171",
+    "text_sha256": "5870ece3b97046fad4a32fa9f9d4a8351767164677701e87263f271747c00720",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0190",
+    "text_sha256": "d9cc250a93ab0029d220ee4ff822368f9c3fb489a4fa51bd006cdf6126d006e5",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0192",
+    "text_sha256": "0ec41dc24b6813ac97ed02decb45f2c40a96436d20b7c0965e9abbe57cdb2c76",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0194",
+    "text_sha256": "d0cb5272076c698ff7abca9eb396589ccbd7c580c10abfcd7fe1fe3e2364cba0",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0196",
+    "text_sha256": "0b87f23a2faddaeea07c9e296d2de7567c4654757554f1838727ef8ac91b6e2b",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0198",
+    "text_sha256": "f4f81cd80f5dfe6bd33909e658d7d6d72d5b661ff80ecc17aea5b070a7e80568",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0199",
+    "text_sha256": "bab809e60d00dedca1fb7296904134e5388bb345f6ed07b33aaf70fd8f126558",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0206",
+    "text_sha256": "6ef7f51ef059049166cd7a465477fcde87e0aba8137c01a87428b98a553f8393",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0218",
+    "text_sha256": "6a19c0a83b161a1ef4d0923ac8d0c1998100f14f25ef201e59a9369e080ff887",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0219",
+    "text_sha256": "c099b227220719514aeeff6d6a8e816a040ec8df0367ae333b068d1dadd4b002",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0240",
+    "text_sha256": "0cdc0a73d91632478d2b5fbfe2265da3a7420145c0e9ef43330bbfde3b5ed6ff",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0243",
+    "text_sha256": "4981170d7363dab01e363fe6f902097cbe15b1853865009de43925e7109ba947",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0248",
+    "text_sha256": "e9b7f67a25ee9ababd1fadf5807e8b18a409eaeba1b442d641cf8e23f921b42f",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0253",
+    "text_sha256": "267161e312df92981dbf9a02a3447b6db3e6abdb82b52fb53bd916ef513bf4a9",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0261",
+    "text_sha256": "10d18e0fd8034a7eb49f5f5b85cb458612442044d6573beab620e957581e8abc",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0276",
+    "text_sha256": "231b6bca395e456486137e48e879af27bfbc73230c55e5581fd84167b59c49a8",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0279",
+    "text_sha256": "1fb5a0e51e4f219f74202b17685c9eca5b668e83cbc6465ba20217479cd009f8",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_01_L0296",
+    "text_sha256": "d29ddf8e39f361eb73c17634feb8a2e9dfa58cc653e2212433e9c74fccaae6d5",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0004",
+    "text_sha256": "7982467daa315e3767be546e6d21052626d38d845bd5ac386028a9b25d813afd",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0006",
+    "text_sha256": "daeb73612047560667ae3e9fc8dc72f195908ef75bf3580f7139dc3a2f7bd938",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0021",
+    "text_sha256": "7c61b183917e7e8f674e2cd409494a332f30bc192d0f5226a5f256300f86fa2d",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0046",
+    "text_sha256": "217d9ff1ade9f56b1b3465cd2994ab7096d535bb55a43d537f898a22812900bd",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0052",
+    "text_sha256": "e5d532784d73adcbac2b5e8548a4eb28102233eb78be99ce2172f7bc1a4a12a0",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0080",
+    "text_sha256": "197b4ee9e8a3d7ebd1b717f6c51c0850c0832cc4686f4f85abeffc2affeb5f7c",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0130",
+    "text_sha256": "bafb23c09af419385e2292773b2ecbedaf879f57486527d9370b3d48d055f52b",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0137",
+    "text_sha256": "b180a038cdc70b91eb9c80d6bd82efb0150b3ee02a72b1e64a03c59b094faa9f",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0144",
+    "text_sha256": "37abb8e3bbb979b8883476be080d4448bc65dc01e178d82344f9e03c97de9fcb",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0148",
+    "text_sha256": "79801e33af4f3dde77b2d763f9b08d2c6e9315378aa62f18c7cf65de08890cc2",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0174",
+    "text_sha256": "8ed4f707f3f521775d8ff311362677a75f47f9c70dcb422539b6283854da62c6",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0180",
+    "text_sha256": "54200a281da70ff01a48fafe328833011abe23f76372284f2b410bdeb2b56dc1",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0184",
+    "text_sha256": "d662f2901f3afdbf37fb967384bc0fd721a964e6e36d2b583dee5d1e8eccb94d",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0202",
+    "text_sha256": "fb6b155877dd79680795e2471eb6eef8ad0c3e52144999d521b311ffbd75a3ae",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0224",
+    "text_sha256": "e5f4ff9aea03984fc238ad9ba262537b24e3d0c3fc075e6477e72c7d40e045e5",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0231",
+    "text_sha256": "745617db7777ad6ed545b0f8ad7ff0b64bdcd453d0f11e6db9239cdd1a695715",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0235",
+    "text_sha256": "dfa1f8ef0a7ff6bed237c8224e2824dc4cc56f9f6989ead4a7cc6e65906747df",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0238",
+    "text_sha256": "fe62cc9938f2588de8d31a16f17e5fe8db4b06f79758a68772044cd426ca8625",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0258",
+    "text_sha256": "56c01e7de785489544ce194e2a03cce275cf98d87dff69db9b29142849dcb33d",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0272",
+    "text_sha256": "940f4c3ffbadb0d2c6c18f2d787df59214437aba16572ad0f931b255015313a4",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0280",
+    "text_sha256": "6eb6a831b3abba41951d31d0d5d0ef283e030a4fa788b43a5063a6bc3af68ab8",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_02_L0289",
+    "text_sha256": "32288d458964607f91e55f7c5c2efc7ef92089a07806307365b439d8816bdd38",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0025",
+    "text_sha256": "e3857546bb888804dd35fbd667512addd4c2944c92bf2335fb4dd283c388f69e",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0034",
+    "text_sha256": "fa98fdfe83de16d5ffe4a76492060a69db2a6df1b3a6ab405636bd6b572b4773",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0038",
+    "text_sha256": "00ab8c730d5e0474a0285adfea1c30617dc3040c59abdc3fd28d8aebf5826313",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0050",
+    "text_sha256": "e7d80259a3e1e598073c91c2b9a45f13d446e0fd98e59cfe85e7b2797be35ff9",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0081",
+    "text_sha256": "79db256f4f19b2133fd460270f9140dbc60bc6f285e1f901f15cea876e7fb19e",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0082",
+    "text_sha256": "c6840fbd15e8086b3fa79b40801a48b65b5231fc88c013e610c806fb9f016938",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0083",
+    "text_sha256": "672cd7a067623334022631dc1cefeaec6623c25c37114888f83f906027fef6f1",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0084",
+    "text_sha256": "2cb11934a3efa68f71313156eae4cb343a62fe26b8949cf985d91ad845f5f039",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0101",
+    "text_sha256": "868a9041c73442e1b9b714fcf10ecd672255cf4ee949c098d51972969b3da2cd",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0107",
+    "text_sha256": "3c5106e628215b236a962257329745704f713578ff4d17b5e32ce48a22a2f704",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0108",
+    "text_sha256": "1f5c28e538729525f129f156344ebb89673daa3f0153e4894393af5af795e9f2",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0122",
+    "text_sha256": "69202337dbacb3ba5dc11f8b0b90b0a71e27662b485c37edfc43d38d950ed5bc",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0127",
+    "text_sha256": "129bba462758b93db2c1fdd707f652105763e568fee56365c8f10d3a45556185",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0132",
+    "text_sha256": "ad42babac00913b6ae70628f8431ca0e61d7a852b571829b5b81b9dbb9515903",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0163",
+    "text_sha256": "6516923732b3354ef3be3da0436a55a4145adba85fd8c8bc443bd2ab1d20ea2e",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0189",
+    "text_sha256": "10ac2f88bd5e0b128afbca255718259a8e429e557571eab4cf806cc8dff41633",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0201",
+    "text_sha256": "2928332703f15170ca2e5e4e08266072a28e0eadb15d8b67a39eabf76fcbb538",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0211",
+    "text_sha256": "2aef1fa4183126db6f866e4ab102375825af8e7bdf67bfb747c9f1c8f1ce239b",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0221",
+    "text_sha256": "1240ea366989240e4b61b008e206d75c7b9325002e8195a0b8a8d338fbd9fe21",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0225",
+    "text_sha256": "7a5582b29a51baf044d23dd13743b62110665309cdc6284207cdd087745305a1",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0241",
+    "text_sha256": "fff7b26e03eb64dc1e8c318e8dfa9d0a114acd44df795b0ac15a6309b2165a89",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0246",
+    "text_sha256": "4642372f01589717d43d80d759618e27eb21580ab63c3944fece59ad0fee0ed4",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0256",
+    "text_sha256": "e91d88459fe4fbe672514a311b588900310e33d1e0f82e271e3f09b38c5a8eb0",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0257",
+    "text_sha256": "4442272782d0d24e512f41ff80176d362b446c9887d6594916eb4776ccce2499",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0278",
+    "text_sha256": "2fd5ea4e89efec75e7c39794effdca357e548462b0df30c3e9d9d741b59e20b4",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0282",
+    "text_sha256": "ba70a2cf97894c7067ba35b7d3875a85ca7af80e5ee39c5b09eb4b600ac2bba0",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_03_L0292",
+    "text_sha256": "4e9b5274df93b895668712116927c781aa8eabb1d2738f92dea74b82772536fa",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0006",
+    "text_sha256": "9a604c3943ecd065e8c7fdde8278124b33cd571c906df65ae085931597ed9103",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0018",
+    "text_sha256": "313171c23d37c17a73602c6975de5ce7661593830f2f510f1af6df13113cf7a7",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0024",
+    "text_sha256": "2fab8677def29383702d31a983627407af36e4b6497389adad4649b4bf96818a",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0029",
+    "text_sha256": "966c3779998147cf9bcb783afe401f8190e79d5c9c199669519de1943dceddf5",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0041",
+    "text_sha256": "c7a980ef8fccd0cf0f92d242fb2971ed6ea4778055b3efc89f319f92cc2dd46d",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0042",
+    "text_sha256": "593a67c3f09edb04ba6bea8c60ad42e05a4ae9c3396d7572959652520f496f72",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0056",
+    "text_sha256": "d2acac216e232dd2b7a2972c10cb4d5882177e0e737f02332036ee8a21ac62b5",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0063",
+    "text_sha256": "5939148990f65580a5bd86d3e723b4481f05f026abc6a881219ee7188abc363a",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0064",
+    "text_sha256": "d48cbfe5e92dba3361c529edf587e8d12d32c9f4c1ed9a2842cb381540c14993",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0067",
+    "text_sha256": "5f7cd3b2237c9f7f0dddf4071c8975299d07e1c69c37cd8aa133c87d7478596e",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0086",
+    "text_sha256": "f0d5c670d455be04fa29d2306633b4318dc4086398bff8bb940edb4f37a85804",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0093",
+    "text_sha256": "7b29dc5539c5df14603441d89a70321fba8d8ef1ae723bddc6cb12e95f0be5a7",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0095",
+    "text_sha256": "b43ee787103b131cd9ffb272a2173400409a7a93ad43c61bbcd9fef4b5fdca8a",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0114",
+    "text_sha256": "63901fa9ab7e300f474c10d43e2c6080e764e442ecef3d9eb78791546bebc1c4",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0122",
+    "text_sha256": "cdddaaeadb11895c0ae5dbf1759d1733530a605b1966cc7faa973b568d2607e0",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0126",
+    "text_sha256": "f1293e955a667016ce63634c89c5f9b02a3ff83d9f526c8a80772c9e2790e38d",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0141",
+    "text_sha256": "3a1719f1bfdcc5c1268cc919fcaf2cb4145cb765a4d7dd40d8b8680f5218da6e",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0142",
+    "text_sha256": "0ba431243886cb4efd766f2d99b80696681cceb93972418ef1ae4018444b7c4b",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0147",
+    "text_sha256": "f47ee16510f31382976546369b9feab809036fc0e61e2903888ec3e9be545f96",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0165",
+    "text_sha256": "5961d041a6403b5f784fa7030dc4d7a0ee1a87ebb732bef7fd3cdb5ecedfc72e",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0175",
+    "text_sha256": "3b0453403684dafe2b7cdcbab4ea2c132bba5918acc029565ea78ccb84444d70",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0196",
+    "text_sha256": "c8c7693f350b99f1fe9aaa50d9be53a1a72f331889ad4accbfa5350d3211ca57",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0201",
+    "text_sha256": "cb07fb95ffc389dfd9f68f05d0421eadb4ed3409fa090e855000848e3e823ede",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0228",
+    "text_sha256": "4a0171ea608bdbb27ea5dd04b75e6ff501319ad6fa167392c2256b7842546da6",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0240",
+    "text_sha256": "b10fe4127ff7ff4ac88fb8aa870043e2a4c58444df27e97c416add1a42717f30",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0253",
+    "text_sha256": "2eef0fbe3749eb893cc1c1ec124979bb383ffda338df3fea62a4a4de4b1d6ce7",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_04_L0294",
+    "text_sha256": "b1c27f8fd310e8eac18be1ac0d5613f8a5e600f58842d0bee0e90dd84ab72c16",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0008",
+    "text_sha256": "74f8b35286562e7e089d1d01f87a5cada774429d384debed64d3d326e74d8962",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0019",
+    "text_sha256": "6b2a9a9fa5654564f789307a8a47d782230b22898e5efa4b2920aab4e7736ce8",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0021",
+    "text_sha256": "515a9cc7d702928523cee53a8ae8603f7f73f114cee8fb0eaf55440eb4a90f58",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0022",
+    "text_sha256": "3102bb59aa41a47c77535baefa28924db8fcb17a828645df781b0454085bb899",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0028",
+    "text_sha256": "578d9d063640de94badc30e2a0708ea6ffbad9ec6b45ab2c127bad188c0da2e9",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0058",
+    "text_sha256": "a41d08115788a3fbe7f0057162e73840fe0de5d51f641eadd9a719f19f5080d3",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0071",
+    "text_sha256": "ebd449c67dbe317c49b5854fd95913736cd965fe88741b11a05219f64a78a36a",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0082",
+    "text_sha256": "418f30c72c83878b8a0257f8393bd596398233ad64c905f821ba69af2ae37325",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0084",
+    "text_sha256": "06759553ecf993d3079f838786273556381b8f80c3eb06e624bfe5cec82dce0e",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0088",
+    "text_sha256": "c905cf44bb18dcb77429e4567134471d51982f86e21afbcd002baf39775fdce7",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0100",
+    "text_sha256": "b4badaa760d15a8e1523f4954a2ad85996d9a96582d2ee7c8f8a57deeb8467a8",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0107",
+    "text_sha256": "8ab7125bf69f6ec7af8e997412bff80957d56f55cef4ebf02847e21674d9fd60",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0117",
+    "text_sha256": "ea54ca38bd5a89b9a9b3c585eb63f5864ca9183cb6e83304134af8b127223273",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0119",
+    "text_sha256": "554ec8e1344c325ad3b232a72b64b42ced4208efb91057445e779dfd6995d218",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0125",
+    "text_sha256": "cc5d2fbc4d151502adc2f1ab2e1375249012a43f0ab72bd23641583a1575abf9",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0136",
+    "text_sha256": "9a90b698b4fc3573ee79a0af24e4df928e0da660d277497d59c3baf0d55eec58",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0151",
+    "text_sha256": "9288a223eebbb57905d0297a0870abfad0732751b115af9440a5424757d9d14d",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0165",
+    "text_sha256": "270ef77f41949edce43649af0653fb5e754e3f43fe69a3368b3a314a56022df0",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0169",
+    "text_sha256": "9f5a18c061b499515328605082cb5922732da705bcc69c6796c80151119f758c",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0194",
+    "text_sha256": "cf6bc24688d22b790f4e80eea4e6bceb5a1456d227e228522c97fee72a3ee9b4",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0197",
+    "text_sha256": "b426e41124617db3b9fcc7163e56955b02e4294a2cda0762c8902807bef3ff9e",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0238",
+    "text_sha256": "7502e293d0d1806a1febea45bb692a55e6d32760479b9dbf5acfdc46e2917cf8",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0243",
+    "text_sha256": "93efa456eeaf497a5ea14028b18f90c3993f1cea20c3363aabd8ef626cb001a9",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0247",
+    "text_sha256": "eca0f59cb7b9d8cc697e946265d81c9c679ad43801cad0b2107657bf151263f2",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0248",
+    "text_sha256": "07a44c71b1c0861d462b22fc89cf538db6163202676099387d3f60b3e9b06ca5",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0262",
+    "text_sha256": "17b3e8dd7b85d0c69c9608352cff7dcb369d425bf7a6c094ae97143423fb707e",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0264",
+    "text_sha256": "af019499e3527b66b225616e1cf46de9560ecc3063bcd152c8b9633056595b5e",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0275",
+    "text_sha256": "24e76c3fe5bd8f267c9eddb3f49248219a5fee71c7438c223278c67119f3621b",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0287",
+    "text_sha256": "9cbc703a13a4dd73fcb35201d9c5df58407e080b9ad5313355bb1a06669a96f0",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_05_L0291",
+    "text_sha256": "543acd923cae49884010ecd3f65bfaea5c7dc7bc8ae98663e1ae3b53f6f1abbb",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0005",
+    "text_sha256": "1db155e80116e7ff1889b3ef39a96abee38ccc2f6ac602eae0597b07c9395884",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0019",
+    "text_sha256": "aadcb980a99794e5a675aec770c8ec32e8bef249b9a62df7479363ead7af9cbc",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0040",
+    "text_sha256": "e87b111e6c416825c1818d76d7aadb85c54aa1e38b546b6504bba6576e580c2c",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0042",
+    "text_sha256": "93f0b5060a8f48ee41b0310741dfff3446e65d491f709c91e7a1218afc2f3c4c",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0050",
+    "text_sha256": "cb8153ea7e29c9573455a7b7075661d26d0b6a4336926d44231afa63ee0ba015",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0061",
+    "text_sha256": "18cfa1651590c15ba5b57252536dfcd0940ca665acaacae18f2926fc8cb87bcc",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0064",
+    "text_sha256": "e9e7a2c78abbff7c5fc3085fd160b22b8214ecc852475d21936cf60da109cbb1",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0065",
+    "text_sha256": "d1ac02923527a942a46b0b57917cd44dd896e66fe9fe35b08e331c20331734bd",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0075",
+    "text_sha256": "a295178649ef78601e6fb40fb77714e8adfaba9b75d08f675b5d3bea332ffda3",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0105",
+    "text_sha256": "bb5febe621405885f58de763082b0cf38ffcd0f88d83179af6e3a7329baa558c",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0127",
+    "text_sha256": "e8994276553301e8b65706ff47e34cc37864fc3cec6b0edd5d2a1c02d87d85c1",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0128",
+    "text_sha256": "98f1bad6920f37fb8b0198fed3680486a652a382e443225a93ead96a42d8754a",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0134",
+    "text_sha256": "fde5340279ec9d50b73cac54680e083013f06c3a015cc7d840e367125599f030",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0136",
+    "text_sha256": "ca5e04bffb41a33897ac4ec11be83dc235762898b0f589c67f0362eeed9227fb",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0151",
+    "text_sha256": "a90d4d198ee5186d7d307748db62a675af6142261025e1487bcf75c8c7c806d4",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0172",
+    "text_sha256": "dbd57a28df646c4118fa3e4f86a6accf49e63bb0ba77346070e29e411d631b34",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0173",
+    "text_sha256": "cea3133cd1db3f6b7bcc6563b346c7e8e2047fd6233b4c03ae989814495c1d09",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0174",
+    "text_sha256": "b2aad3e6eacaaf38714156e9f65315debe8584ae1a999d4269ac3340d11a930a",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0192",
+    "text_sha256": "e3fbf5fdf48eb782a4ab5c51d74306664bb2248338e3a9f40646decad4187504",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0206",
+    "text_sha256": "228f05ce69a9c99fdeb33ebd2f1cc9ec705eee6719bbe004d8bf4c0ddbae2f31",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0244",
+    "text_sha256": "57e8119a8f034ed078ca0e555083e861ff1003f25909cfa5f85e99afc6a9ad87",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0251",
+    "text_sha256": "7eeb2b4a4dd363ce12d043fbbe0ca5e2a21cec3ef75bc9e86e37f526014d062e",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0262",
+    "text_sha256": "a17284974612758b033dd41433d99c8f356322b15ffad64662d1582bdf3bc473",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0272",
+    "text_sha256": "f11b336ad197bf3b058a182107e2810863613635cea51b82812ad411e27802e5",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0273",
+    "text_sha256": "71a6220ab815c9ffe28695ebc2d8eaaf034fa3dbfaad07ae89991682ff573891",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_06_L0281",
+    "text_sha256": "047b3f6384901b613272275532280a06229ee6c9f135ac9be1a392d1c3b75f67",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0038",
+    "text_sha256": "aef52e6eb771deb49bd54da5830f6c6ce08693f12e69fab06865ac8a881dd652",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0047",
+    "text_sha256": "f8ec0492ab3621362bd7f83c2fc1b0d2ab3cc0c04eaa003a9e5042724d71e62b",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0050",
+    "text_sha256": "a77bb1b922d3bf521c9159a84119a56a0de6cadf56d35daf106b67eaf08aea17",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0052",
+    "text_sha256": "2d5b3a4e3e34d18551117fdf30e50c84c8f2410815d8e3e383910b365ba3523b",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0061",
+    "text_sha256": "2f658551a1912c85bf652d76ba9028b39c96cbf0f58255c95bc516a135c212f7",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0078",
+    "text_sha256": "93e339ce1e4d6ec15674a8706a503f9d6a3b5c8ebcd88d3dc5f908cdaf76f267",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0091",
+    "text_sha256": "3c470caab82356e9996ff5c515b5360fed43b71ac3a852f76c5a6164c728411e",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0092",
+    "text_sha256": "f029ff4fd401793b0ea8599bc6078a08fe71db2583f60a082d79958aef2fdde9",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0097",
+    "text_sha256": "b0c5e372a9d3ba3351c2c9e0941eac914b65c7accfa7c2ee5a5db180b6e8d5a0",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0119",
+    "text_sha256": "90f4702a34186d402e2758ae4aa1fad33b17b830b866d95a357ff5f9f108f3d8",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0120",
+    "text_sha256": "8620ee86cedd98c34539dced84364faedad4ed2738c2e741558987e3bdbc9186",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0121",
+    "text_sha256": "de8e45e66dc15e095e920d7de856dc867e708f6599c377eb35134e69754453f0",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0129",
+    "text_sha256": "fa6b992fc92bf9d1251ba1264080643e9f2169ef571ea70f10a50974b7227090",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0135",
+    "text_sha256": "2d4e9b821f033b1c8cdcc27a04ee670d255aa8145a4533395e49c252b607644a",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0143",
+    "text_sha256": "28dd09439113c930b3a93bf4dcc76967e373a6ef504b8e023d3e25dad94b6ca5",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0144",
+    "text_sha256": "a25ace97fc99e4e91cad6ec964f3f3bdc50fc915669016484439f50db73e53b1",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0155",
+    "text_sha256": "a4aeeeee15efd6b4282a64da7c32f4f07bc6df06de115057bf482a7ea800c4d5",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0164",
+    "text_sha256": "de7c2d190d94f4cdd6197df7e0234e440e223f450d43cbea24e5ae032ff66327",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0165",
+    "text_sha256": "818bfe96a10ee93252f3fc704e711f2c4b6fac39bdba50005b85508c4d62ee8d",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0171",
+    "text_sha256": "cfeba664c40bf5b26d159dfaa2bd349ed0c1c992a57a9ef1249f8debe24b133d",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0194",
+    "text_sha256": "6e77701ce9f935b7ba7107629432156308fc4045e90215a35383089c478eb70f",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0195",
+    "text_sha256": "03d9a7bfa28cebf4631094f9b34c6bc22d54cb4c0f255b552edabc67808304ff",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0196",
+    "text_sha256": "2f481ee6ffd08f3b23d2700dffe824bccfb490ee4a360e2515a034cd7dda4c92",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0204",
+    "text_sha256": "d7346b2cf825a0a880c3f91f5c7a94bf2fd6ebf6a1280e4385ab1197917b32d9",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0205",
+    "text_sha256": "68e011d0f799d63b3ee417fada4f0bf233b4830d8ff6043894489b454d0d8bf7",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0216",
+    "text_sha256": "1fd28ee2b17d594e8aa629edb21383b6925a34dbbb651b131817b0d50c968bfa",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0244",
+    "text_sha256": "69e20de1915d3dab682b7b476823f326a6c78f3efa6cc167338e34b1d308cafd",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0247",
+    "text_sha256": "dd98320185d02c32bd6c1bf21bf160939ef885f55456e0ec8d349156202dcaa8",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0261",
+    "text_sha256": "3cb10054a44fd076cfde4abe09a0d7f6ac260c8fd47e2f6fdfdbbb062996bacc",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0263",
+    "text_sha256": "f1f228d923b4c631ae95f8ed6e40f4fe8d1e2896f70cc1c1d9e423655b2bddc6",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0264",
+    "text_sha256": "c86a2a0d27f781254acd9632af10fae690e50eacb5cf6190cf9ea11ee5cd7f83",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0278",
+    "text_sha256": "788cf2d836f05514491ed5c927476ae8029b09d6480b5d87595ed918ccb549f4",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_07_L0285",
+    "text_sha256": "85ae7cc7d3bb11283e352034493e3995e69b82284e6eba558c3ddcf90c6813aa",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0002",
+    "text_sha256": "9d6dfb5c8c0c85e5524ef23ad23764324758d978fdc51c03ccd96756bef3c614",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0014",
+    "text_sha256": "9891af031feef9862604a0c8394454c8af0e01ca86e6be81ab5f2dd42ec246b2",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0020",
+    "text_sha256": "56497c50ccfe29ec2c052bca7d8ea59a2796573e83f3c4429e1bf5d7adf14559",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0021",
+    "text_sha256": "e756065c791a05f1f74e152a5d37ec0b167f86323754b1dd2181059605433d7c",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0028",
+    "text_sha256": "f5fa7474e1eff29b6dd86c0c20c75b05556a131b1616648d0e4f58e56eebbd2d",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0031",
+    "text_sha256": "8666a94b4d68ecb12b31bb5c35830733fb012d1777cbce69cad84463053b37fc",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0040",
+    "text_sha256": "90fc068f53efc5d891fad43bfb47b9813aada29782a9046091ff5cf7b309da5c",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0074",
+    "text_sha256": "ebda613745d8d21c25bc6631a6c2f1d49bd097aff109ad003f422634071d9c8d",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0092",
+    "text_sha256": "da01d2d9542ab9efeefd4dee6cbdaf1010fa3bb4fc8c2d6807fab1561cdaacdc",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0106",
+    "text_sha256": "d7c4f21bdd72cbdd2f68d0ef00bae2c2bf48a9e690375b16397bfb3c8a72fb64",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0116",
+    "text_sha256": "4c6ec902414228b338bed06c6ae8b5fc1906ece94d40069036929be72a6ec921",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0125",
+    "text_sha256": "a3a8053ce4603cfe5ccc8dd55cb2b1d7b87f90ded5baa89ef09dbb09a121b100",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0131",
+    "text_sha256": "1c1cb2d9631121176228db969710095f576ec0512bfe01662975fcf47b0633c9",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0152",
+    "text_sha256": "546da1ac4fb8440f5992d6ded5e201020a641d6bc072e688e03ee5a65cd3b64b",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0155",
+    "text_sha256": "1f75e0e54297c4cbecd787b14ae2ec92e8cd122bf241cbf96d50b972c36befcd",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0158",
+    "text_sha256": "7c51d26e9598060be791c6801d0e22bb99147ca4b49c40c9b713a6ef7fa01e49",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0159",
+    "text_sha256": "134d03be04bfaef4fddf735009823618538989b7b7888c61bad19c6c7f297152",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0161",
+    "text_sha256": "6acbb065ac3ca03c2ebf6e8bf570f9ca87d17cb567457fe596a75f261b8df4ac",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0168",
+    "text_sha256": "1b4ab1cfc0b47e607acad410713665d4bc0fbd5c26a7687c09f441dac1698321",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0170",
+    "text_sha256": "87842e9138ffded7765c04d6bedc27c66efe7a2af1fc1d51fa5d9b148cdece4e",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0183",
+    "text_sha256": "2d09e9f454e7490a0320cef78e9703fac510152a1a86582e434cbd54d9027710",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0185",
+    "text_sha256": "8ad8abca87c76e5ffeb0d1221218e99a6c35d77f232277660beebf568c8f0cfb",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0197",
+    "text_sha256": "965ccb17ba1cd106b7204f6f616dfb4c2cb40760648e799cbb7bb2b6fccd5b15",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0209",
+    "text_sha256": "c57f568e3132a0bdcd429d1c773ac3ba2b8956a899e8a4a0ab73762e52ef1379",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0213",
+    "text_sha256": "027fa6f36a72df1f61d668cb07c8abb767495b96a0f222725ffed2b7905e3380",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0226",
+    "text_sha256": "572a928f02922fc1b9c53ab568b6de449328be32d7f65ba08be28dde78a77e52",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0239",
+    "text_sha256": "262666d79dfa600d22b3c7eb493df80de751ffb16c42800ac23e09748405c186",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0245",
+    "text_sha256": "56d6abb3bda38d99a6f7015fc6b94ba1cef3aded42c7e6da7056805732234cd6",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0246",
+    "text_sha256": "38cb082b793ef4d3495587d9dd803c449a96a494b0beef20179df68f5dcde1e6",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0252",
+    "text_sha256": "afce19cda2abc66c49c2aea95b291e2df992c7e4abe75fd5e6f2119eabdb9c22",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0253",
+    "text_sha256": "a2b31c905a856fb298d88f000feaf50fc45467f7f84e72a6cd6fdfa446273a04",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0256",
+    "text_sha256": "97f7552eb979110835d46e5f5088faaa9ca3c68aaa221d97237b59acb9567d84",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0259",
+    "text_sha256": "c8f3b9c717e80811b5af768c666cd97cbeead5ff249d43d119034abbbaf449d9",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0265",
+    "text_sha256": "dd5659c4cdc4d92c9a4a69d6a01c4ff7cab0462307030edfaa0f060c0651b0cf",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0266",
+    "text_sha256": "1c9559b30bb266353f8a16f0781e37cadfd42c1c3f2bcc9e13d8a352ef3cc47e",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0269",
+    "text_sha256": "655d1a40fcb67688de0a27a1002e13c8486a272362df28c8af783668c8c59a80",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0270",
+    "text_sha256": "bd962b4a164cc52bd89231c0c1c3c54de6545cb986c4d4d5debebb908db48a49",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0271",
+    "text_sha256": "641b4e58c96d5a24a7affe4494c99f4d2851348e62954b8992d46188b0f1ceb9",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0283",
+    "text_sha256": "65a15fbe0af496da3c425d77c95d07401eba43b217b2def0a919d9c9a3c2424a",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_08_L0300",
+    "text_sha256": "f26042667215215518d4784724de0ebd55d8ba4adf0f70c25329a39ce5c06528",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0002",
+    "text_sha256": "41c0c4f205038b64b7268617d97e972a0c1bd69e07e0b8a1e093aaf9eb91aa1d",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0006",
+    "text_sha256": "f281879fc58911b512f93e238eb40aea2d43db46def229f2d16799d4d3cd1db9",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0031",
+    "text_sha256": "a8d04cd028556a3060a03d998f2f1ebb3ea896661809c75138cefbd46f0e4d9f",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0036",
+    "text_sha256": "9f37df249c4f923094ebe3f4468227411abb5ff6f7ba9d2f0c7b57ff48e9502d",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0038",
+    "text_sha256": "1bd569d7076a3208314f463a401373c840f5e0222497371c7679b391b4d10c93",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0039",
+    "text_sha256": "d01a7ebdb859db70aa611641d50f1a6dfdb1c3ff0bd9e2b20b17a77fae475c96",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0043",
+    "text_sha256": "cc79662524b4551333dd6fc91bc06be0c8babef9aa84ff53565698dff7cca75d",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0044",
+    "text_sha256": "41eefb3771c598590e5de03570262f97d04f83ff15044e80f2dc8b709ab8692f",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0048",
+    "text_sha256": "848b272686fbb2d610cb82b7c7804a6bd9e4fe805e9f605f8f1c78e31799cd6e",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0062",
+    "text_sha256": "97692bee1f755ee057a70486dff4ff088d0c0824a89ae9b6b89000f40e953ef2",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0073",
+    "text_sha256": "2562d55173b4a5b30aa01ae227826b8ca8b0e26d8ba1dcd1e00f3db6b8cec06e",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0080",
+    "text_sha256": "7714060f23fb656c1eabb6ddb94081d01d18f8d35147b8667ece05d9e81f752b",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0084",
+    "text_sha256": "b962b1bf2670f58578e55ac9c544792a4ed03516a9ebe5fb75f4e3fea5fa5a85",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0134",
+    "text_sha256": "86f05643d62b817ba2fe1052c3463a39121da76d484a829ae538bd9c0a85ab69",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0137",
+    "text_sha256": "a1033037710a1fc844ab9f4aff006ef9442e93b752fb77520f8727a2eafef5ea",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0145",
+    "text_sha256": "843c8f5b14ec5930c9174b072b9daf87a187e71838d584366bfa010a8b829fdb",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0157",
+    "text_sha256": "9da685d57538016c4985db0a63fb8fa85aa6e54bdb6e5b10ffc43bc2adb5ba04",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0161",
+    "text_sha256": "55b35af33d4e0db019a2025cd2c1bf5058d3a568cec68b43ef9ced46c05b0b9e",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0172",
+    "text_sha256": "76d5f30a23b5828c4ed41f2eb5ad15850f80a5de5eda5496a89bc9fa97a64ecc",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0173",
+    "text_sha256": "1dc223ef3e5dff10571e2fc8beebde76b6b3a4b80256c0aa9a1a884605978d9c",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0182",
+    "text_sha256": "878ad8897e6fc6ffb0e6818279cf3a919b137572b433f29d25b88842174b418b",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0203",
+    "text_sha256": "6d7c63ee68df601fe836d8de57d4d834632988baf298c21d103dbacb958537ad",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0204",
+    "text_sha256": "e4694ca82ea8613e8b0bc6bd93a7e6a94b5d611a0f8f876fb64a48ca244691e3",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0205",
+    "text_sha256": "152551b74f98f1e9f87750d1396b0b705bb0ab539fe489f55a6c98d24fabda20",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0209",
+    "text_sha256": "bdcbeb52867476363a707bf32010d01b0e29fb4350ad1241ef66389446baef66",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0217",
+    "text_sha256": "08970f6c9acde65832692a35b48d4b2e57e6c8d3fc927285aa907e3b2206491b",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0255",
+    "text_sha256": "2a1c4196e81d7ee5caecf1caf4ed5888a5a120a61e6ceb61dfbcb28c968a48fe",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0271",
+    "text_sha256": "2c152b58995252b76754cd4d7f206c87cc89a07ed7fe5c34b360dff7a214e09e",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0274",
+    "text_sha256": "9d48df255f261344a9b4c84696a631356a05abb8eae1ad9f89a9c2b891aeaecb",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0277",
+    "text_sha256": "75bcbe52ea8ad74f430629616cbeeceac1c7ee2355321817aa1c3d07ce30a126",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0283",
+    "text_sha256": "abca76264170243a71ddf0f76e8dad375e1728b5d263be4472df9112dcaaf9c9",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0284",
+    "text_sha256": "ad3ab5a3498cb801daa61f842cc061a2cb63dd945b3b3dff2dad0b2e93028624",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_09_L0297",
+    "text_sha256": "364c27b25eba623f32cd4aa02d59336127fc22045907784626029ec27a2742b9",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0019",
+    "text_sha256": "ad7a1e790223b3079596952e25b764f8af944c1f0e827ecdda7cb78487b18f10",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0021",
+    "text_sha256": "fcd886c2b94cb2115f3391e80a9778393a9000b90a4234dbd2345cfc2924f17c",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0023",
+    "text_sha256": "a80180b8b10d49119d4bc184c563b41692545268700f77c604c53ad461f83a3b",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0027",
+    "text_sha256": "718f8fc9704b733d8a15d68bfb72acc882f386a3c218f3db5800dc4a71303789",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0029",
+    "text_sha256": "85f1b10def710109daf0abb08062dd324fd93bd8e461e6c6c02d5a2a89a6e235",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0032",
+    "text_sha256": "8f4592d20ddf38ab4201f1210b9aa93f33eab7bf0bb19f595f5fc21dbf702773",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0043",
+    "text_sha256": "4b08d82bc7cfe1b0edcdc61fac55e3e1e0fd4ba10addec51d1aadbd42000414c",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0045",
+    "text_sha256": "4baccbc3b4117ab58483708d04770601a662f0012d5df2b31a013f04f90d95f6",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0079",
+    "text_sha256": "1ba3165aaf8b8597bf50f2a3b4fb0bee0d46e0594fedfc65ef2baef5b87afb8b",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0106",
+    "text_sha256": "a1e165657fd8100be055b21e4c642a98d6cc5ef374ca9c51cb90c41c34f6284b",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0119",
+    "text_sha256": "25e1479922545b5d4d742a2b99e99eb76e7ef2f45d1d6f9cae0317bfc4f5b8e3",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0130",
+    "text_sha256": "f1cb020eae608729d08d26bde58645af6dbc3ee35c86f15dd51eddda8fefe948",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0138",
+    "text_sha256": "85fcccaa4cad009340fc3c3092704b91663fc531ab07cfc7cac05dcd36573537",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0154",
+    "text_sha256": "1e5f9731fda3b2da49beca0c8aaf5aec5579fd1ee2bb53720462a0e05a0dfb33",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0208",
+    "text_sha256": "84e9e9442e3a995f8938b0cb5393bfc8453b3e300667e4f72e0d4ef7253ef5ad",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0210",
+    "text_sha256": "8047681a45dd10adc6b4ec9739d13cb04fb4e32470db3bebe7874f3cca1bca14",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0215",
+    "text_sha256": "0210c2c1f2db306a94730adf7247d422e990cb6498adbd3a59324a9b2abb00d3",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0218",
+    "text_sha256": "e2abe0248e84bb5ab022bc7d7c7917e5410015aaf4cac44638743efdcc6e74d6",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0248",
+    "text_sha256": "042eba29fc807bad8609ba8fcbbb950d46b47b0c98e082a622942b9173c18c94",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0253",
+    "text_sha256": "b870bb46da0ae0803ee6a8c0d645777249337752b40fe870604d5214e8db8f63",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0254",
+    "text_sha256": "0a04c56d5f14cb5bf42f133a9373e43322af3f9e050379352d611ec986f54ede",
+    "fold": 2
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0258",
+    "text_sha256": "cc48ccecc7518b652d5c399c8752ba71b7377a1032424d0925b535af2384370d",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0272",
+    "text_sha256": "d408c612015fa9a9dd6ad93e990b388892548ee9614285d9dfc2147dba37494f",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0274",
+    "text_sha256": "736a0041a3dafd210e32e6ef21c7d2caf6976b99ce88c5acf43e55be4e7ca6a0",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0278",
+    "text_sha256": "5145d0229fb570ddb9929765c16f5fe0583fde5c01cb4f6fff47fe0f4884c7d3",
+    "fold": 1
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0286",
+    "text_sha256": "c24d52e48a4901fd806a61cfbaf06cb9af955e59590eb050e5220dd88a87e673",
+    "fold": 0
+  },
+  {
+    "dataset": "CMNEE",
+    "doc_id": "batch_test_10_L0290",
+    "text_sha256": "121efc7a1e28f4d9cd87a198dec701330ba76582e149459efe3d1d3a1e1ee302",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_101_3090_0",
+    "text_sha256": "489634597575fa1ff5a19c64ba5693368b753fff78b0ac5a27ae853bc16e7860",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_120_1954_0",
+    "text_sha256": "aa9695d46bf72baa71b68e4e72e3dc14078fa113f29b9fdfe283514a2b6cf06f",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_139_144_0",
+    "text_sha256": "7911433d161e68a02bb83f789beb3d5ebb9aac5a93844da4f08459369bf5ed69",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_158_2387_0",
+    "text_sha256": "0693a03672656afb2b4aa26d3b95594ea53851141968eb61684dfd46e5580b47",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_180_576_0",
+    "text_sha256": "80b2810bd7a5e119cb38e0cfdadaedced305b5a27ccbd93f4b1c4961e62a1c5c",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_205_2900_0",
+    "text_sha256": "a2b5a3a70310fd8d56bbc1c48edacc1d8aef5a4226f6a6589c074fbeeef1d251",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_245_2674_0",
+    "text_sha256": "37b007fbb95f3722641c863832a692004093424098731f4886760c9f78aacc10",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_266_2348_0",
+    "text_sha256": "4d698ccc9c3fed761ed731009120ab881d87bf4d5e078f5d6f081cd968ad09a3",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_287_3106_0",
+    "text_sha256": "5fcc178e5332bc25b195f16ed3f2e64636b8f73ada2b9cb69f6ec2565284e2d7",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_30_2873_0",
+    "text_sha256": "46ef2e06d86fc3e495d264c68c80100dbb742aa09ced527245a5c10f6297a959",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_305_495_0",
+    "text_sha256": "f9fda64b96ae10e13d2cbb69d481a2e9f8ce13426d6a2d71b06be12585457258",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_314_2435_0",
+    "text_sha256": "b6a9d84be06cfc85c5bac2dd8d5fa46ea432588acffd8436252b88b55f63d52a",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_323_631_0",
+    "text_sha256": "abf56e74f9fe7eb85c164850e8a5e02a3940e109fdc834b6a39568d8f2cf3d59",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_42_292_0",
+    "text_sha256": "bd63d8ff6e1c99beef0dc66893337de45ad9c5f531e0c80b10d0aea698942cce",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_5_65_0",
+    "text_sha256": "5dbe189823c86a3cf73cc0d57bc9cdce7d3dbf9d6545d1adb1ed2f28c4b1935e",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_56_2640_0",
+    "text_sha256": "56224e488f495b1bd44d48151f060607f937d9ca18c2348ba99ed55946f12ad2",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_65_2703_0",
+    "text_sha256": "1d1556a380861bb85afe8879dc14301b02eaaaa361dfff96c9fcfcd5f34134d4",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_73_2171_0",
+    "text_sha256": "5b9ec471c62441c394a669cd28b1a48eaa86c2d5369865277ece9556ec3a767c",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_01_97_3245_0",
+    "text_sha256": "f0edce3ada7f13cc45762465613a4493fac270ffad8e8ffb205b9c2f1d524c4b",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_02_139_2_0",
+    "text_sha256": "491f025cd044ad264b1a8b69e413b8aee84760a3841dc1ee399cd1a5d70fa52b",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_02_200_690_0",
+    "text_sha256": "81854296913f340a9c4e1caeb6608cd2e4005893b9bba6ccb82ce1b66d402fa5",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_02_205_1675_0",
+    "text_sha256": "3ea7ae5e76098823de5b69260f3dc5f3b69984f9520c79a9bc4c0295e958f64c",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_02_223_2835_0",
+    "text_sha256": "7d0a78fa5881dfddafdb57361c91f06d1bebf0082f0fd1a48a7ffef9693a7637",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_02_26_72_0",
+    "text_sha256": "bc777654bbd474e1ad48b7c009b52a2270edea1e0459acbff0c8cac54a5c638f",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_02_264_1002_0",
+    "text_sha256": "abe88304fe2fb2c0a9bf9e253bc7ce802306bf9758b810e43e1a953f8fcd53a6",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_02_266_2899_0",
+    "text_sha256": "d834c407fa0323e37e7ab7cc06949202eea40d70bdfd88f2b0720f578c3862fd",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_02_277_2413_0",
+    "text_sha256": "d08564258e080bc601edd20697d1a6df5ee4bce9b1293e32439444e92542b352",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_02_279_755_0",
+    "text_sha256": "97ffcb4ceb45cd735dff29baa2ecb20c372240ecdc89f291dce58e871b213efd",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_02_39_29_0",
+    "text_sha256": "4cb52148952d7a0a94c276ae7fd009b88208f37e7c2a2fd576f69a3219c4377a",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_02_41_998_0",
+    "text_sha256": "f801453f7526a1ee1c014391688bb494a7ed893c204853186a064c516f2e49a4",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_02_66_107_0",
+    "text_sha256": "e55cd6685dd29f27b5b64446c8ccecf3aa753acddce6e6b627eea482cac23e86",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_03_122_607_0",
+    "text_sha256": "7f47fabcbe90bef516d3bf2910eb16a49bd6b578acd8d8a47ce62ac68582b26d",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_03_195_3410_0",
+    "text_sha256": "2d189d881dd0619a36bf176fb12a3c404a0f0db22cd36724c9724a8f9a41b357",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_03_198_1835_0",
+    "text_sha256": "94fbada1bfc8d95c27f97327019af738984fce2fb137262be4fbf7da73272ba4",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_03_199_2726_0",
+    "text_sha256": "036ee322d77166bf23050eed75324e1c34cdf7244e7ce15a17bccbcc3df6b269",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_03_204_2929_0",
+    "text_sha256": "a37b16be80816ade5a3b8a2f6e31e7502bfe8fdaf1030af9254989686caa819c",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_03_255_1601_0",
+    "text_sha256": "cf0d4daa76fca861c21ce63abbdbbc4dee223a7379a998c9418d8272c0978a6f",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_03_260_902_0",
+    "text_sha256": "618e9c0ef25952ec45f5e4ba9870e589dba9b7ccf801f1fe90574903f1e3e67f",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_03_294_714_0",
+    "text_sha256": "f61799de58ffcd82773df447340c2f6506e64b6cf3f29c4fb8a817d527b956d0",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_03_61_382_0",
+    "text_sha256": "77e9de40735fe67f4382b97b18d4314525bea3031eded19e80b91bb004b30160",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_03_74_542_0",
+    "text_sha256": "b13cc5dee1333acb35ea5843c66c36e8f20b0099f5882d8756ba659d3f665bfa",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_03_82_2555_0",
+    "text_sha256": "ca60324f04a07780987e8f09f87912726463c0605df68e03170e55929094be32",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_04_107_594_0",
+    "text_sha256": "1ec3496a05500811e8efc0d6900d224ebb39f6395a2ff368f83f104d22bcf935",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_04_130_816_0",
+    "text_sha256": "1837f42971dddcf176f888b1185d8fa9cb8ee7ac9034656f7bb49809cdbf435a",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_04_135_3342_0",
+    "text_sha256": "c0cab89a4df520159f48c92088b878ba8ed83703ee1e102fae8cca592c9d7b0d",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_04_14_658_0",
+    "text_sha256": "97f1c365865692188b5bda90881d0dfb117b44e600f593580a514116fd429129",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_04_141_1655_0",
+    "text_sha256": "6662613585fe7b7e6bc976b1457b168ebb8aba35761e24f5d22d8529353d1b27",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_04_168_863_0",
+    "text_sha256": "3b1d14080a6b8ae34c3ee341a196953f4a2c2a036d24fb52e868d982d15103a2",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_04_203_3203_0",
+    "text_sha256": "d4df955c40159392b3bc62f15feb19feb07a0286d7c5509d442cd826a0db5851",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_04_220_2165_0",
+    "text_sha256": "fd332f43e4b5d2e585927492fe0f3b060a8cdbfabcd6a14da23a200a7564c575",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_04_308_1021_0",
+    "text_sha256": "6d00ca2c2b9ee4384d66d7b29b1c2baf73c09439abb4c0f24c1fbac5492aa097",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_04_39_1251_0",
+    "text_sha256": "502cb38df51dbaf443e5246f2c730cb1ecfb2905f62f804bc9b9da3f87af1939",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_04_61_1849_0",
+    "text_sha256": "416ad78ec1ce0e83631f28f99b59547069117d10c85cd47dd7dcce0fee149e8e",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_04_78_2470_0",
+    "text_sha256": "f40e53799f0da974e42f3c758664b704e313434690d896977bf3c388ac7f1fab",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_05_1_1832_0",
+    "text_sha256": "6262c03f3c7f47a5d1b62cb215b2119170579fc59a0ae1a2cc4a88d749cfd902",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_05_111_1732_0",
+    "text_sha256": "9219d91c91ae5f22aed4acebc0a2d75e2200348ec89c5d98727b2e9344bde85c",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_05_13_2998_0",
+    "text_sha256": "e2ec54c9e381f50049f0e4eb81121257e71eed9b2f90735c9f8543f13ccd9fa3",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_05_144_2514_0",
+    "text_sha256": "2d08ad1a85f414bd30d3a55dc236cc7e4e066722d034dc08cf1b41de65fb3f06",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_05_199_727_0",
+    "text_sha256": "c7dc81f62176229608131cf41639c4e3920b20e83a06a7e0b3595b413358bcc1",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_05_230_849_0",
+    "text_sha256": "73a1b23743ae624bfea53874768905d1bd56855e012be84926eb6d7a453536ba",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_05_274_623_0",
+    "text_sha256": "ee06b1fca5bf91abc540534d39e36aae5f2f5ca66a1072d37692a5619c647bd2",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_05_282_1687_0",
+    "text_sha256": "6841e4f7a5c237c58a333a91e858283b781a3496dc54582828df64e8dd7fb5d7",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_05_31_680_0",
+    "text_sha256": "a435eba6d92985d70ac2bf75aad47a276706d44fbbff798ea6ec05146bdd6e55",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_105_2137_0",
+    "text_sha256": "e596eb6e773c0de5b1bd38c66f94d658203c60dd45e8e41aba2e0cc207ef9c16",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_107_2912_0",
+    "text_sha256": "fa5c288bf6f9e2883893aa1154f383e3874f7e9ad7f7bc6e0eb0172971caec7b",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_114_2669_0",
+    "text_sha256": "ce0b9499b2fde5945b21cc0079ae2fe83f83d386e221e4431b3b796c630169f3",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_121_1638_0",
+    "text_sha256": "9799471aff916a8acad9e97b3fbaff6082bfdbd733d000dbf34263e38ae49ce9",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_122_2990_0",
+    "text_sha256": "95633da303181b9aa57d5f2d5356f7d0db165c32800477001fcd344f32a3879e",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_135_3080_0",
+    "text_sha256": "f9f98ce0b7a6fc0707c6874785333b409a0b51426005290a53bc8f9bf5a6f350",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_160_2061_0",
+    "text_sha256": "8a2b513099c165410b9ec01fce53a7eeb4c2203a12f99586e0fd4fb8068f5f90",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_167_3215_0",
+    "text_sha256": "6119868e2074cf8df4fcf26760008db179e9285555f5382cc2ae8aff6aaf0ce4",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_189_777_0",
+    "text_sha256": "69e56720f06d671a6bef1a6c3e73d39a3f9acccaf534e120249b020dd07815e7",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_2_445_0",
+    "text_sha256": "65f3834202a1b1379e7c576b515c24dce5c6605501073e480e8766064ab8a318",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_223_1819_0",
+    "text_sha256": "84d4b8c48fdc6d51f94a5d9700c2e09f23349d7ec92a2d7b5255703c5030ac90",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_226_1488_0",
+    "text_sha256": "4c4cf0e4c56c4f0ef12c3596efe90794bfd9ff6407391e80a8001301b177edd5",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_280_1773_0",
+    "text_sha256": "8af707c5ca7fccda2de4b00cc15f73637b8b3abcb05582a900a2f8594b0ee41b",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_295_624_0",
+    "text_sha256": "dd6e6bb3e27322a4fbd0f4956021239291ecb9ec712fb1797fe693ffa89f67c5",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_3_590_0",
+    "text_sha256": "53372269b28339c0b2bf559845318b71a44f9af46fca5a0775877ce018317912",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_309_475_0",
+    "text_sha256": "03152ac6c196248270703e9e696301c11204fe149d0b20bd496074acdcbb1016",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_313_2429_0",
+    "text_sha256": "c2c03d34069726cd5af9aa95b1301ca049d81ece89537f0780abcfa63eb75121",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_314_2241_0",
+    "text_sha256": "318ef48a467e68a1850d96c5298aaff65f230a27b170ca062443efcd07cb8df8",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_58_482_0",
+    "text_sha256": "1e255f415697e12adf5dc201a369876138a904e06a35a62f2dc4f33415c2f648",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_63_702_0",
+    "text_sha256": "b0acf923bcaec8cd11bbcecf16ba03eee2a4ad6e4bdaee0cb884533edf7b17ac",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_80_555_0",
+    "text_sha256": "7895e4a90fc55b2d08a2c1ac0bd728c7eb752dbe521e76b7c2cd7c259a066b73",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_92_731_0",
+    "text_sha256": "1fdacb655e72a886e688becdccfd3f111a606da9dc62e4f940cd0fdf3e7b190a",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_06_94_3186_0",
+    "text_sha256": "2a02133802e673d313b43f8989afd2e1abdde10e8c3bafc1016cadba90b3c9fd",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_10_2581_0",
+    "text_sha256": "2f7007b78a5fbc3b4233ec92392825168335dde1451a0fab21db4a694e8c9b95",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_109_3054_0",
+    "text_sha256": "cf28542aca2c95a535cda469dff0dbc70295bc3feb0b73ae4d4e2ed152ab8675",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_112_1665_0",
+    "text_sha256": "4c25285624ddcc2ecf1e0a1da441ff538024ec533c2b7bdc7fed5568a42e86db",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_120_1206_0",
+    "text_sha256": "55e790c35906856bc0e86a1c09cf8d1f99dd47870261374ce5d6221b3f72926a",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_127_2450_0",
+    "text_sha256": "b5e18dff13fd490bacb13cc821f4ab352142176ebb7230be4243e0e2d2ef2b59",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_143_188_0",
+    "text_sha256": "2da4889aa6f1eafec06704109f0396603372596f42b0d99140b9fe0f58efba9b",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_157_1612_0",
+    "text_sha256": "d9b9545f4e7e864d0abb3bf64ca33997d5481effbee7fae3f37d918669ff7c54",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_170_3302_0",
+    "text_sha256": "7d4355725b69d5c6132c4ab3e68aef4d173eef36392aa581ac7cd1a5d02ebe11",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_180_711_0",
+    "text_sha256": "fb12f0ab14d5252a2486e0bd274d03fde8f195689b60489c6dbe1f1c48ce21b5",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_190_2044_0",
+    "text_sha256": "530f408819830dbd985a05ed7034fd1cd5d48800a5804326be815c7b1c5e1fe2",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_198_1103_0",
+    "text_sha256": "b7a0475430b586a25d4f6c1c49b5b339fe08d888f576b8e2293f5c419d0cbb5e",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_200_1584_0",
+    "text_sha256": "0450770d1989a7c4d34c98c32fa178b0f3c7cef0938194e52cfb1dd26df4bdcc",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_203_1627_0",
+    "text_sha256": "1f6d4b4aa3c6a6896fe87bcfc5e9cf059357b85099e9ca7c83358c0a8571f0fa",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_226_1368_0",
+    "text_sha256": "11deb4f1c747c3da7a69313a44e9c0070efcd09c6486eda05177169ff6a58936",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_235_821_0",
+    "text_sha256": "92f69d938e040a9e6ad50583d2386b9006aa276fa0b60f9200df2d987279096c",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_239_1650_0",
+    "text_sha256": "56f742616d92ebdf09b37f726beef6d906a2d1b96ba4cc04f7e415bd4dee2055",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_253_112_0",
+    "text_sha256": "40654112234439b5932646160f0205da13c8823d1dd673523f48d9164c5fc521",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_263_981_0",
+    "text_sha256": "16de67b410643b8d2cce0b37124fecf5f71c398439df2511e5da18e219be7c1d",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_266_1726_0",
+    "text_sha256": "9524b77f991ad86659ff9bde3cbdf031090186699d0b8309bed8e94c07d97923",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_276_1852_0",
+    "text_sha256": "070d3c99899d5c4b2fd272681381e6822b547623ed388e406ea2a60d0ccfffce",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_288_3089_0",
+    "text_sha256": "752812cb69ff409dec4eaf66dda48eb7f1c8551de8d2e972905199af1881baf0",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_294_1106_0",
+    "text_sha256": "385bc5684089f0d2f94ee850b7371f654776a7800a670c70af16143970d6eda4",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_297_1695_0",
+    "text_sha256": "bcbdf9cc96e96ed3e26c57542042d61016c892c8e595d3e7f1ad22c1f873cd62",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_30_3326_0",
+    "text_sha256": "22b4815d45b606714852eda7a625b4861a0f13a7b4fe9d09e3e537620b58223c",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_316_86_0",
+    "text_sha256": "89992d7f9fac16084d9a73c0801c4854b7d3063e668414f4878b7648df9a6ad4",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_317_3259_0",
+    "text_sha256": "5b543e41a9b8a42923c4258b69c1b8feb2c729c02da9182227a07cec13fe01ca",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_51_612_0",
+    "text_sha256": "5eddab5ce09ebc8881e08e11abf414e43c527867a21c4a60d984211fc7ee7075",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_53_2583_0",
+    "text_sha256": "ff7a9ebfa4f446fbbb07ed2fd196f748471ea7367b5bfc031ea893f8f09d39a9",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_58_1744_0",
+    "text_sha256": "8e1af28c7a7943a3c517630084ab3cbe19bec044af5f5bb21da75c19112460ae",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_7_3219_0",
+    "text_sha256": "4e79dafed75119cc9ed2995ecb36d532f8a118f0d9b0d1728f3cb11960c28ae5",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_78_2225_0",
+    "text_sha256": "68eb82880105415c76c59a10f3c96ba9954cdbb3fbf00b9153dffd5770f669dc",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_80_1728_0",
+    "text_sha256": "fa33568ca2cfa69eb88780378728ee291e3baf6079d28208bda6475b9ff5e9fe",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_07_87_3317_0",
+    "text_sha256": "e1515348f447eca630c8646b481b7cd35937d1cb86a042689f5bba79c33bf2f7",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_102_1647_0",
+    "text_sha256": "b441fea45b5873be3c43607cf6b6212165d6ec551ec67e2d9a826c1afb91f5f0",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_116_2585_0",
+    "text_sha256": "c0d61fc5f9b48ee130fe059e6719b553c7e1fc726de66885ac272b6919226055",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_126_424_0",
+    "text_sha256": "88374cf9e648930157ce240bd25b29fed9f1867556c1b42a24de649c4d10547e",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_128_3095_0",
+    "text_sha256": "ebefb1308c6a4bc934e108ed4a8d04199fa21c0e8e059bdd5ed5068e256f1be1",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_13_2449_0",
+    "text_sha256": "d23714b0a03ff5975a8f0733f21c3ed07fdc4a3536e5e7f004a09407be36386f",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_130_2993_0",
+    "text_sha256": "6cbd2880c72a6912947c4fbf95f3899d63cfe12e64897f3efaa7718bf93c6005",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_136_1800_0",
+    "text_sha256": "5f6e3bd3cf1732b5b73bad04c1e10f514aa98b5e4a84009f952fd8637b5b738e",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_147_888_0",
+    "text_sha256": "2c63b0ae639bf83fe67727a54a58bde83751624df498c0bacfc4371095ea9edb",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_15_2614_0",
+    "text_sha256": "db0de36caa7efb2a80ba96077515efe376b4f053cc88880229dd4442f7215291",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_178_2003_0",
+    "text_sha256": "4581527ef37b301bccd3627bc04ff7ee6b49b83c64eaccc9e27bddd65acbd6ab",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_18_1098_0",
+    "text_sha256": "7c0c52eebaa860f023c92af5fb50c80c2fc5fa5ebdaa9e1e2e83850d05a9318f",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_183_1039_0",
+    "text_sha256": "1132283f3e50db3f18bb4e5d95c3f48739c171613e64ce1e1b1bc673bbee5219",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_206_1600_0",
+    "text_sha256": "0ba1bcc51505c4bebd1ae2dbd051156853775d6a5bc8ea22345fce45d8b815a6",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_209_282_0",
+    "text_sha256": "f853f34703fa6cd598887b4fa3cbbad0a7d5134a8ec408621bdf09163ea19de9",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_254_1499_0",
+    "text_sha256": "ce1a2a778690573e682202d4f61ee836ccf370d118aeefb5f0e07a020c9290da",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_259_1025_0",
+    "text_sha256": "507949909d510fde20060def6d664a4d218d9bf8f910fed134a596cbdeca26b8",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_266_886_0",
+    "text_sha256": "1a92c0e797c0752c5e3c8fc2e4105be53281d3ae06d384e8ac431a17917f3a9c",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_271_3283_0",
+    "text_sha256": "89176d6810427aef5c49c0f2f4ded634ebc9063d74bd76e5c09739d4f9313344",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_272_2159_0",
+    "text_sha256": "d9ca1ae69db6020f2993e33c13569378315940f0ab57de37665e76e72fcdacdc",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_273_648_0",
+    "text_sha256": "99595745ae4f5f9f4618716564a72ad16f147e26df49c8cbd6e5449afbabf3a6",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_282_1660_0",
+    "text_sha256": "cb07485c7d54abad86064a0c7ca7112ae53d6e79abe4c4b41885ca6558f2c931",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_303_263_0",
+    "text_sha256": "e8bdda97d41978fe8550d9dd09d7463d90371ed46ae13095560212c6b810fb4a",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_307_935_0",
+    "text_sha256": "1ce6cca7d76cda882bd32f9f6154db7f062d4590fc426b11d3f4f56d4cc23ac5",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_307_1611_0",
+    "text_sha256": "dd77a2764b8970f367111d20ff65082b8348907d522c84cf761992b2e0875906",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_318_3132_0",
+    "text_sha256": "0372eb9fe61778dbff5045e2c91c542cdee95ea3ab1e534d4295d7c455fbb12d",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_35_3223_0",
+    "text_sha256": "2415a60ec4e260cee5be98450a08114a0506dba8dfde31afea2642c25de61945",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_46_500_0",
+    "text_sha256": "d8ab7ecd769d2c36df15b858cfdc1a8abeab64b2ddf532480590a07e576609c4",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_52_2842_0",
+    "text_sha256": "1b81008e1f88a63d52c10c3858b9a82d86ea972ddb7832f87d38d1b689f6c2f8",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_08_94_385_0",
+    "text_sha256": "d2877b56a03f5d963f728c7a7240129ea39574935aead4c94cf5d25a37973546",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_A_100_1528_0",
+    "text_sha256": "0225ffffbed4e07b73f15ef98ac830867c2d8eb42470c86ec6cc4f217d328e78",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_A_106_1187_0",
+    "text_sha256": "25000445a748f715475d7ddb5aa8e4f6dd755e6a0bb750c5a135d75757bdf4f4",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_A_110_2742_0",
+    "text_sha256": "0b7749c380dcf830a5735b0226a3aa97041e1fdc3f9d701be93d77b941f9cb1a",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_A_133_2911_0",
+    "text_sha256": "31bd00b41da3cbb20bbadfc40107f41fd0e345fcfc44dd5da5df62329d6f9f9c",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_A_144_3136_0",
+    "text_sha256": "9ca601c539b89eb01ada4cc8c526f9531c8b949a73bf078d92a790a639148690",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_A_23_2279_0",
+    "text_sha256": "ddec73fb6f13f58178fc5a6f0ba0face806bba62db7908639bb19348622c1f9b",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_A_41_3166_0",
+    "text_sha256": "19a4e27b3b9b87345cc36a44572bcd659602721113b144a0df0ec8a1a9c21f01",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_A_50_2563_0",
+    "text_sha256": "4e5e5eee2defc586a3c0d4e7ac60be0633fb2bf7d4e5d12321b07f821f5aa484",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_A_60_2752_0",
+    "text_sha256": "3e86dfbc473cec892ab3ed31ec22c9dd7c79886cb352cfb6c8951935b88edfa1",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_A_65_694_0",
+    "text_sha256": "8f258ad0dab71e87e7fcee244166f4cfc6aa4791e8389dbd19bf6ed142aa8c93",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_A_90_399_0",
+    "text_sha256": "a1a618f586b5a92f0f51701dde4e65ff7a01d824d50fb6ef1614f0d98e622f6e",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_A_94_212_0",
+    "text_sha256": "d6101c916ac5d9ec2a7089d3bf0905b06131c5ecac80ca0780aee9ad498c8cde",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_B_10_2796_0",
+    "text_sha256": "27ac55c6acce3ec9343b66dee48fe75bc4e8320f75a7c2735b0ad4876c8b254d",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_B_148_2350_0",
+    "text_sha256": "ea63b49f9d3d00e9d9e92c58e92c8cbaaca4d6d0d899fc8695a66975b238ba55",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_B_153_2207_0",
+    "text_sha256": "eb01275cd306938f5774c0d9f0b123648de0dfca43bf426dfab8bf25693a90ce",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_B_30_2155_0",
+    "text_sha256": "c6d40fd4c96c4f54ee07d380d69b444218c36631f71a2bf2e550164052f20847",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_B_43_80_0",
+    "text_sha256": "a95bb86b56e2eddb30cefb2afb2be91d4eaa44c66d99eac937133bb63c16d221",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_B_44_2379_0",
+    "text_sha256": "9d24c555788da83a936b5b9335b44bbaa116bb30dac3898fd61a75e884aa55bf",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_B_72_812_0",
+    "text_sha256": "839588224c56a5c5c6470d9b13581a5cf081d1dee44e1c7546a350f706608cc3",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_B_85_858_0",
+    "text_sha256": "dac1a3f6665656b9b657665dd08abb1bf8b07e4923a4f184bf09e68e30e4f6cb",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_B_89_1334_0",
+    "text_sha256": "386d78cd8436f3ad03abef7c028ea9b27917840cb99283aa4342957a1333c8ba",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_09_B_99_2648_0",
+    "text_sha256": "14955cc4123b8065f21a1328bbfee2ebb2506e5759ae875600599cc265ecff65",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_10_168_1768_0",
+    "text_sha256": "dee0b8af5334b9b6b967e780aa4d8a6b7a455042f8c90eea15ca52cb50aad8dd",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_10_183_348_0",
+    "text_sha256": "06c45d371869cb3e8208eed014cf80ec3fea90fc2e0942aed83f228eaeec9ea2",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_10_188_315_0",
+    "text_sha256": "57d5a600be1eaf40b86b95d71677cedf0c70f6d020c0aefa1995c6a77ba5faf0",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_10_222_2005_0",
+    "text_sha256": "00168b69e7e0fb31fddec4c4bf06bed9c139aee8f98926db7c8507ee733e12ee",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_10_251_2117_0",
+    "text_sha256": "ceff18c1efd95554fb5c5dd9e5bfb1787d7937ad207bdc2a769286eaac58f1ff",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_10_266_454_0",
+    "text_sha256": "1dc5ee2c946515a1e179e75363298f34397985ea1012d27bb40798d638021ed4",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_10_62_1014_0",
+    "text_sha256": "8b2b4438eaaa776d36c71bdc55a450be66661d88bc9be34b37c53d86acf8009a",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_10_64_281_0",
+    "text_sha256": "d5c8ef53e05d9ce8b1df1a833e364fe7c5e484b869fed14b57c5c5cdeb8cd806",
+    "fold": 2
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_10_79_3390_0",
+    "text_sha256": "d29db7cab6a3481d47cf7bfe7d9c3f639eb620a347a3d44e936bfdd406d783b7",
+    "fold": 0
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_10_80_1_0",
+    "text_sha256": "29a5c840ae1f68f04f4149f44b7f5d5202a2407a7ad5af6c54b29d7097d7e0af",
+    "fold": 1
+  },
+  {
+    "dataset": "CNC-RECESS",
+    "doc_id": "cnc_train_10_96_1344_0",
+    "text_sha256": "9bcb7cd9647dc2d57e4c02595ce8cbde1e7faca944e031a42a0c76d731704f19",
+    "fold": 1
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_rxtktz",
+    "text_sha256": "8733000d80888cb68f3d71673202faafdedcf38d6581d482316b2800f35f888c",
+    "fold": 1
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_voue0c",
+    "text_sha256": "5e370d97c2fd1b6398390c2754a134e4c430965d1fc56b73d9a16ac3eeb180b8",
+    "fold": 0
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_q0vqk8",
+    "text_sha256": "d089bbf21462ba61eea8d97c68bda6410af04f0b0445b03f75fc8ef2626da5be",
+    "fold": 0
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_C_P_T81",
+    "text_sha256": "5312a309d3c16aca7699e658d968269bacdd189b5f5a468ab152d9882b7fe6fd",
+    "fold": 0
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_ts9qge",
+    "text_sha256": "b5fb16e90a0b8b00f795cf2bf5388c7d4b2dd5e155d0bb3c2ad73af672dbad78",
+    "fold": 2
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_M1243",
+    "text_sha256": "821da8a0a702fd7342667c7a195bde87159b30ed459d55765939d4cfb30cbd7e",
+    "fold": 1
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_M1121",
+    "text_sha256": "11bbd8866e5968e9a8a7b8e5d000778bc5668aaa5987e5e0707dd74291a30d90",
+    "fold": 1
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_rlln1h",
+    "text_sha256": "0c0f8f20d3b8566cd7abecbc69e83c9286b2829b043761f6bc57973310dcf287",
+    "fold": 2
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_M_P532",
+    "text_sha256": "d9903882d7c3ecc3b4e7a778e3b3dfc1744c2770c56af5245783027bf73a24f5",
+    "fold": 1
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_s7hmft",
+    "text_sha256": "0c4f954d8b37fa1481226106459ec2eaa361eb4c8a8cd9581976b261905b56ec",
+    "fold": 0
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_P_T331",
+    "text_sha256": "1e4e8be2a85f822caa57e1227bb8c27a3620cb1b69cdc789a31921335256c4a5",
+    "fold": 0
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_C470",
+    "text_sha256": "15a28e7be01950ab6c35271cbf111bfb15f90879fb659cb6ad5fddc264a64289",
+    "fold": 1
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_tikz5n",
+    "text_sha256": "e5b73c7376d9ebd4bc03ea64e99d41257f05c0ca47623d662564ba69f5a97c56",
+    "fold": 2
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_P_T679",
+    "text_sha256": "5fb82a328c364a943184a48332a11f21bdb2a9b870cf712ce9b434e8a8890480",
+    "fold": 1
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_gj42cn",
+    "text_sha256": "6242d788a9524f343d74540219f6ee300c2b75ab1a00dd6939c43865c4d7a4dd",
+    "fold": 0
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_train_T108",
+    "text_sha256": "d5e6c296ba19f9c3fd8e9494620e908155b23c1d362ee983f04d5d143ca3944e",
+    "fold": 1
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_dev_fbt4cd",
+    "text_sha256": "6797382b336bed1e30a187ce11766b5e26a0f121c6956bb395d5491d8935a689",
+    "fold": 0
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_dev_s2nl5s",
+    "text_sha256": "c6d27f29cd354a3107217b572cafa33ec2e5f3b73b2f5d7e2d46692ac22842ca",
+    "fold": 1
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_dev_w6o4dd",
+    "text_sha256": "06178df97739abedcb435c1a9378f4702e88899c8689b55240d99437c0c85a76",
+    "fold": 2
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_test_tiwpt0",
+    "text_sha256": "09866f06335e148e91199dfd7dcf0ab668bc58cac8c4e2a55bc4dd8ac9d2d096",
+    "fold": 2
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_test_M1163",
+    "text_sha256": "6f745c3b85888af98b0cceebd324efa493e746f10ddef69f4323b3a97e70106c",
+    "fold": 1
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_test_tb6iua",
+    "text_sha256": "6c4cc475759dc04e5038f748d29197d9a4f46c3459ba0b0bc3c326e54aa8904e",
+    "fold": 0
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_test_C74",
+    "text_sha256": "8ec4a6a71355796afdc31972bef8bd55432a80ea107af7d8cb4e4bc3b89fef89",
+    "fold": 2
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_test_M_P281",
+    "text_sha256": "cdf3ed885103c0fed38a8ee91e0cc0333182f121022d398e430bd65942099a33",
+    "fold": 1
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_test_hl5r04",
+    "text_sha256": "0ac050d505e5fc2acd7d73cfc3e2836879605760f8fe3dc5bc6631146276ed8d",
+    "fold": 1
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_test_tw7aig",
+    "text_sha256": "5a0c607c8b181f64ccba00698802a6be7e5d41934a8c1419e1ec7d1d68e6f3e0",
+    "fold": 2
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_test_C_P313",
+    "text_sha256": "0928ffc6c44868cb2ecc35fc460914242e981a8b09eff4b8d676cae4f953105c",
+    "fold": 2
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_test_C_T76",
+    "text_sha256": "136b6b3517369a9e1d466fd958d869590b539a37a75e38164307d6be64709580",
+    "fold": 0
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_test_x2p03u",
+    "text_sha256": "998fd5f1ef7d065c75738438a4d7ebc55f968b46ef72d290660ceb02796a091e",
+    "fold": 2
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_test_vduioi",
+    "text_sha256": "1bdb3b4346a0730be2f108b4b6583a3584a84d6c3e9a50a02a1f81f68bf38d89",
+    "fold": 1
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_test_C_P145",
+    "text_sha256": "c13b8c9e447ad1005a656b919c391161dd95ed34e44d3d4b87f357f31b9e86bd",
+    "fold": 0
+  },
+  {
+    "dataset": "DiscourseEE",
+    "doc_id": "discourseee_test_s2aeon",
+    "text_sha256": "efc980adfca1041de060f7bc658b608ee30748d58d9c5ca4a4d948a4c6e6cd6d",
+    "fold": 2
+  },
+  {
+    "dataset": "PHEE",
+    "doc_id": "phee_v2_train_10660641_2_1",
+    "text_sha256": "ea60d139da8f94d0b8148ddf9610edc32187f0cf298bb65da7a8dc2723bb6144",
+    "fold": 2
+  },
+  {
+    "dataset": "PHEE",
+    "doc_id": "phee_v2_dev_10510017_3_1",
+    "text_sha256": "786cf4d202964094b079f6c470f9c33e7297db1c3e90284f763b5c2230257eef",
+    "fold": 1
+  },
+  {
+    "dataset": "PHEE",
+    "doc_id": "phee_v2_test_8442800_2_1",
+    "text_sha256": "952708536f88a8678779526610981550a4eeb1429cd3ecf924635e1b2f1d85ca",
+    "fold": 2
+  },
+  {
+    "dataset": "FrameNet",
+    "doc_id": "framenet_v17_train_339671",
+    "text_sha256": "28230f59a3f0503247f274c8bb0d667cd485014814ac736d8a7bcdf667eff30a",
+    "fold": 0
+  },
+  {
+    "dataset": "FrameNet",
+    "doc_id": "framenet_v17_train_1544662",
+    "text_sha256": "412aea89a237c629368d9a4d506f9fed26fc67cf4b427d46dea45ac46d1bdfd3",
+    "fold": 1
+  },
+  {
+    "dataset": "OEE",
+    "doc_id": "oee_cfc_train_doc-044-20_33",
+    "text_sha256": "c764d6c031ce0ff2eca2495d5032adb2ae3c63f4a328ee792e768a455379c58b",
+    "fold": 1
+  }
+]

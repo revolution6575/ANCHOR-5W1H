@@ -1,0 +1,503 @@
+{
+  "denominators": "events: nonempty role slots / all events; records: samples with role / all samples; nodes: record-local node objects",
+  "role_order": [
+    "who",
+    "what",
+    "when",
+    "where",
+    "why",
+    "how"
+  ],
+  "datasets": {
+    "CEC": {
+      "records": 332,
+      "clusters": 345,
+      "events": 756,
+      "roles": {
+        "who": {
+          "distinct_node_count": 567,
+          "events_with_role": 505,
+          "event_coverage": 0.667989,
+          "records_with_role": 287,
+          "record_coverage": 0.864458
+        },
+        "what": {
+          "distinct_node_count": 805,
+          "events_with_role": 756,
+          "event_coverage": 1.0,
+          "records_with_role": 332,
+          "record_coverage": 1.0
+        },
+        "when": {
+          "distinct_node_count": 472,
+          "events_with_role": 521,
+          "event_coverage": 0.689153,
+          "records_with_role": 327,
+          "record_coverage": 0.98494
+        },
+        "where": {
+          "distinct_node_count": 476,
+          "events_with_role": 549,
+          "event_coverage": 0.72619,
+          "records_with_role": 332,
+          "record_coverage": 1.0
+        },
+        "why": {
+          "distinct_node_count": 359,
+          "events_with_role": 278,
+          "event_coverage": 0.367725,
+          "records_with_role": 188,
+          "record_coverage": 0.566265
+        },
+        "how": {
+          "distinct_node_count": 172,
+          "events_with_role": 162,
+          "event_coverage": 0.214286,
+          "records_with_role": 140,
+          "record_coverage": 0.421687
+        }
+      }
+    },
+    "CMNEE": {
+      "records": 2997,
+      "clusters": 3641,
+      "events": 6573,
+      "roles": {
+        "who": {
+          "distinct_node_count": 6089,
+          "events_with_role": 6152,
+          "event_coverage": 0.93595,
+          "records_with_role": 2970,
+          "record_coverage": 0.990991
+        },
+        "what": {
+          "distinct_node_count": 6788,
+          "events_with_role": 6573,
+          "event_coverage": 1.0,
+          "records_with_role": 2997,
+          "record_coverage": 1.0
+        },
+        "when": {
+          "distinct_node_count": 3329,
+          "events_with_role": 3457,
+          "event_coverage": 0.525939,
+          "records_with_role": 2143,
+          "record_coverage": 0.715048
+        },
+        "where": {
+          "distinct_node_count": 2034,
+          "events_with_role": 2124,
+          "event_coverage": 0.32314,
+          "records_with_role": 1560,
+          "record_coverage": 0.520521
+        },
+        "why": {
+          "distinct_node_count": 2170,
+          "events_with_role": 1981,
+          "event_coverage": 0.301384,
+          "records_with_role": 1482,
+          "record_coverage": 0.494494
+        },
+        "how": {
+          "distinct_node_count": 1670,
+          "events_with_role": 1513,
+          "event_coverage": 0.230184,
+          "records_with_role": 1265,
+          "record_coverage": 0.422089
+        }
+      }
+    },
+    "CNC-RECESS": {
+      "records": 1807,
+      "clusters": 1862,
+      "events": 2904,
+      "roles": {
+        "who": {
+          "distinct_node_count": 2446,
+          "events_with_role": 2394,
+          "event_coverage": 0.82438,
+          "records_with_role": 1638,
+          "record_coverage": 0.906475
+        },
+        "what": {
+          "distinct_node_count": 4810,
+          "events_with_role": 2904,
+          "event_coverage": 1.0,
+          "records_with_role": 1807,
+          "record_coverage": 1.0
+        },
+        "when": {
+          "distinct_node_count": 883,
+          "events_with_role": 1027,
+          "event_coverage": 0.35365,
+          "records_with_role": 826,
+          "record_coverage": 0.457111
+        },
+        "where": {
+          "distinct_node_count": 908,
+          "events_with_role": 1001,
+          "event_coverage": 0.344697,
+          "records_with_role": 828,
+          "record_coverage": 0.458218
+        },
+        "why": {
+          "distinct_node_count": 2012,
+          "events_with_role": 1719,
+          "event_coverage": 0.591942,
+          "records_with_role": 1523,
+          "record_coverage": 0.842833
+        },
+        "how": {
+          "distinct_node_count": 224,
+          "events_with_role": 224,
+          "event_coverage": 0.077135,
+          "records_with_role": 219,
+          "record_coverage": 0.121195
+        }
+      }
+    },
+    "DEIE": {
+      "records": 18936,
+      "clusters": 22712,
+      "events": 69696,
+      "roles": {
+        "who": {
+          "distinct_node_count": 70065,
+          "events_with_role": 59626,
+          "event_coverage": 0.85551538,
+          "records_with_role": 18191,
+          "record_coverage": 0.96065695
+        },
+        "what": {
+          "distinct_node_count": 79771,
+          "events_with_role": 69696,
+          "event_coverage": 1.0,
+          "records_with_role": 18936,
+          "record_coverage": 1.0
+        },
+        "when": {
+          "distinct_node_count": 41936,
+          "events_with_role": 50808,
+          "event_coverage": 0.72899449,
+          "records_with_role": 18201,
+          "record_coverage": 0.96118504
+        },
+        "where": {
+          "distinct_node_count": 27473,
+          "events_with_role": 36364,
+          "event_coverage": 0.52175161,
+          "records_with_role": 15579,
+          "record_coverage": 0.82271863
+        },
+        "why": {
+          "distinct_node_count": 40647,
+          "events_with_role": 39644,
+          "event_coverage": 0.56881313,
+          "records_with_role": 17247,
+          "record_coverage": 0.91080482
+        },
+        "how": {
+          "distinct_node_count": 20997,
+          "events_with_role": 19260,
+          "event_coverage": 0.27634298,
+          "records_with_role": 12049,
+          "record_coverage": 0.63630123
+        }
+      }
+    },
+    "DiscourseEE": {
+      "records": 312,
+      "clusters": 316,
+      "events": 598,
+      "roles": {
+        "who": {
+          "distinct_node_count": 486,
+          "events_with_role": 557,
+          "event_coverage": 0.931438,
+          "records_with_role": 311,
+          "record_coverage": 0.996795
+        },
+        "what": {
+          "distinct_node_count": 971,
+          "events_with_role": 598,
+          "event_coverage": 1.0,
+          "records_with_role": 312,
+          "record_coverage": 1.0
+        },
+        "when": {
+          "distinct_node_count": 168,
+          "events_with_role": 168,
+          "event_coverage": 0.280936,
+          "records_with_role": 140,
+          "record_coverage": 0.448718
+        },
+        "where": {
+          "distinct_node_count": 21,
+          "events_with_role": 21,
+          "event_coverage": 0.035117,
+          "records_with_role": 21,
+          "record_coverage": 0.067308
+        },
+        "why": {
+          "distinct_node_count": 263,
+          "events_with_role": 254,
+          "event_coverage": 0.424749,
+          "records_with_role": 207,
+          "record_coverage": 0.663462
+        },
+        "how": {
+          "distinct_node_count": 330,
+          "events_with_role": 306,
+          "event_coverage": 0.511706,
+          "records_with_role": 237,
+          "record_coverage": 0.759615
+        }
+      }
+    },
+    "Flares": {
+      "records": 1582,
+      "clusters": 1582,
+      "events": 1582,
+      "roles": {
+        "who": {
+          "distinct_node_count": 1834,
+          "events_with_role": 1049,
+          "event_coverage": 0.663085,
+          "records_with_role": 1049,
+          "record_coverage": 0.663085
+        },
+        "what": {
+          "distinct_node_count": 2706,
+          "events_with_role": 1363,
+          "event_coverage": 0.861568,
+          "records_with_role": 1363,
+          "record_coverage": 0.861568
+        },
+        "when": {
+          "distinct_node_count": 777,
+          "events_with_role": 599,
+          "event_coverage": 0.378635,
+          "records_with_role": 599,
+          "record_coverage": 0.378635
+        },
+        "where": {
+          "distinct_node_count": 793,
+          "events_with_role": 561,
+          "event_coverage": 0.354614,
+          "records_with_role": 561,
+          "record_coverage": 0.354614
+        },
+        "why": {
+          "distinct_node_count": 238,
+          "events_with_role": 212,
+          "event_coverage": 0.134008,
+          "records_with_role": 212,
+          "record_coverage": 0.134008
+        },
+        "how": {
+          "distinct_node_count": 560,
+          "events_with_role": 455,
+          "event_coverage": 0.287611,
+          "records_with_role": 455,
+          "record_coverage": 0.287611
+        }
+      }
+    },
+    "FrameNet": {
+      "records": 13,
+      "clusters": 13,
+      "events": 18,
+      "roles": {
+        "who": {
+          "distinct_node_count": 16,
+          "events_with_role": 18,
+          "event_coverage": 1.0,
+          "records_with_role": 13,
+          "record_coverage": 1.0
+        },
+        "what": {
+          "distinct_node_count": 18,
+          "events_with_role": 18,
+          "event_coverage": 1.0,
+          "records_with_role": 13,
+          "record_coverage": 1.0
+        },
+        "when": {
+          "distinct_node_count": 0,
+          "events_with_role": 0,
+          "event_coverage": 0.0,
+          "records_with_role": 0,
+          "record_coverage": 0.0
+        },
+        "where": {
+          "distinct_node_count": 5,
+          "events_with_role": 5,
+          "event_coverage": 0.277778,
+          "records_with_role": 5,
+          "record_coverage": 0.384615
+        },
+        "why": {
+          "distinct_node_count": 16,
+          "events_with_role": 15,
+          "event_coverage": 0.833333,
+          "records_with_role": 13,
+          "record_coverage": 1.0
+        },
+        "how": {
+          "distinct_node_count": 14,
+          "events_with_role": 13,
+          "event_coverage": 0.722222,
+          "records_with_role": 13,
+          "record_coverage": 1.0
+        }
+      }
+    },
+    "Giveme5W1H": {
+      "records": 96,
+      "clusters": 96,
+      "events": 96,
+      "roles": {
+        "who": {
+          "distinct_node_count": 153,
+          "events_with_role": 96,
+          "event_coverage": 1.0,
+          "records_with_role": 96,
+          "record_coverage": 1.0
+        },
+        "what": {
+          "distinct_node_count": 134,
+          "events_with_role": 95,
+          "event_coverage": 0.989583,
+          "records_with_role": 95,
+          "record_coverage": 0.989583
+        },
+        "when": {
+          "distinct_node_count": 93,
+          "events_with_role": 80,
+          "event_coverage": 0.833333,
+          "records_with_role": 80,
+          "record_coverage": 0.833333
+        },
+        "where": {
+          "distinct_node_count": 91,
+          "events_with_role": 72,
+          "event_coverage": 0.75,
+          "records_with_role": 72,
+          "record_coverage": 0.75
+        },
+        "why": {
+          "distinct_node_count": 105,
+          "events_with_role": 81,
+          "event_coverage": 0.84375,
+          "records_with_role": 81,
+          "record_coverage": 0.84375
+        },
+        "how": {
+          "distinct_node_count": 124,
+          "events_with_role": 84,
+          "event_coverage": 0.875,
+          "records_with_role": 84,
+          "record_coverage": 0.875
+        }
+      }
+    },
+    "OEE": {
+      "records": 7,
+      "clusters": 16,
+      "events": 29,
+      "roles": {
+        "who": {
+          "distinct_node_count": 19,
+          "events_with_role": 26,
+          "event_coverage": 0.896552,
+          "records_with_role": 7,
+          "record_coverage": 1.0
+        },
+        "what": {
+          "distinct_node_count": 36,
+          "events_with_role": 29,
+          "event_coverage": 1.0,
+          "records_with_role": 7,
+          "record_coverage": 1.0
+        },
+        "when": {
+          "distinct_node_count": 6,
+          "events_with_role": 7,
+          "event_coverage": 0.241379,
+          "records_with_role": 3,
+          "record_coverage": 0.428571
+        },
+        "where": {
+          "distinct_node_count": 5,
+          "events_with_role": 5,
+          "event_coverage": 0.172414,
+          "records_with_role": 3,
+          "record_coverage": 0.428571
+        },
+        "why": {
+          "distinct_node_count": 13,
+          "events_with_role": 16,
+          "event_coverage": 0.551724,
+          "records_with_role": 7,
+          "record_coverage": 1.0
+        },
+        "how": {
+          "distinct_node_count": 15,
+          "events_with_role": 15,
+          "event_coverage": 0.517241,
+          "records_with_role": 7,
+          "record_coverage": 1.0
+        }
+      }
+    },
+    "PHEE": {
+      "records": 28,
+      "clusters": 29,
+      "events": 34,
+      "roles": {
+        "who": {
+          "distinct_node_count": 30,
+          "events_with_role": 27,
+          "event_coverage": 0.794118,
+          "records_with_role": 24,
+          "record_coverage": 0.857143
+        },
+        "what": {
+          "distinct_node_count": 36,
+          "events_with_role": 34,
+          "event_coverage": 1.0,
+          "records_with_role": 28,
+          "record_coverage": 1.0
+        },
+        "when": {
+          "distinct_node_count": 7,
+          "events_with_role": 7,
+          "event_coverage": 0.205882,
+          "records_with_role": 6,
+          "record_coverage": 0.214286
+        },
+        "where": {
+          "distinct_node_count": 0,
+          "events_with_role": 0,
+          "event_coverage": 0.0,
+          "records_with_role": 0,
+          "record_coverage": 0.0
+        },
+        "why": {
+          "distinct_node_count": 24,
+          "events_with_role": 22,
+          "event_coverage": 0.647059,
+          "records_with_role": 21,
+          "record_coverage": 0.75
+        },
+        "how": {
+          "distinct_node_count": 16,
+          "events_with_role": 16,
+          "event_coverage": 0.470588,
+          "records_with_role": 15,
+          "record_coverage": 0.535714
+        }
+      }
+    }
+  }
+}

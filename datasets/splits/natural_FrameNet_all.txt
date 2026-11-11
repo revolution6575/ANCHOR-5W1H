@@ -1,0 +1,13 @@
+framenet_v17_train_339671
+framenet_v17_train_342000
+framenet_v17_train_1404446
+framenet_v17_train_4096670
+framenet_v17_train_1412525
+framenet_v17_train_1340252
+framenet_v17_train_387336
+framenet_v17_train_241501
+framenet_v17_train_1544662
+framenet_v17_dev_337973
+framenet_v17_dev_234883
+framenet_v17_test_1520705
+framenet_v17_test_634228

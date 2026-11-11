@@ -1,0 +1,127 @@
+{
+  "schema_version": "ceh-dataset-v1",
+  "records": 26110,
+  "events": 82286,
+  "datasets": [
+    {
+      "name": "CEC",
+      "path": "CEC.json.gz",
+      "language": "zh",
+      "tier": "L3",
+      "annotation": "原始事件标注→映射及 AI 校验",
+      "records": 332,
+      "events": 756,
+      "clusters": 345,
+      "sha256_json": "c3a8a42c573a38346951eafbec4ae01777d70adde9251752fd32a1cbf738f37f",
+      "sha256_gzip": "549f1b6d2d3a11aa21620e9522913b63d77b94612692040528f0ac78cdb93787"
+    },
+    {
+      "name": "CMNEE",
+      "path": "CMNEE.json.gz",
+      "language": "zh",
+      "tier": "L3",
+      "annotation": "模型标注与复核",
+      "records": 2997,
+      "events": 6573,
+      "clusters": 3641,
+      "sha256_json": "af204c37811c88a278ace2cb928169b61a4f78d2699309e6bdba1a4675a6e346",
+      "sha256_gzip": "d4ad83db473d52f23be3bbb5e26a79a028d263c327260682b9c9223a159ffa4e"
+    },
+    {
+      "name": "CNC-RECESS",
+      "path": "CNC-RECESS.json.gz",
+      "language": "en",
+      "tier": "L3",
+      "annotation": "原始因果标注→映射及 AI 校验",
+      "records": 1807,
+      "events": 2904,
+      "clusters": 1862,
+      "sha256_json": "392c4a6cb8406cd0172ad797ce89c398fe16179c5c6778bdcfed46113a96c805",
+      "sha256_gzip": "bb2a4cd686a8392b5ce411e47de5953d625a993c007639055d30cb5d9cd24e77"
+    },
+    {
+      "name": "DEIE",
+      "path": "DEIE.json.gz",
+      "language": "zh",
+      "tier": "L3",
+      "annotation": "人工事件和论元映射，模型复核与补充",
+      "records": 18936,
+      "events": 69696,
+      "clusters": 22712,
+      "sha256_json": "b0631abfa5006245f43262e9bbe1aab2337d210b06afae890a83859ae9cc2bcf",
+      "sha256_gzip": "600e993764a7434a899859fc50b54f94e87ab0811f4de453b118c33e110cc213"
+    },
+    {
+      "name": "DiscourseEE",
+      "path": "DiscourseEE.json.gz",
+      "language": "en",
+      "tier": "L3",
+      "annotation": "原始事件标注→映射及 AI 校验",
+      "records": 312,
+      "events": 598,
+      "clusters": 316,
+      "sha256_json": "772c7131f69b33c3f28fca16bf4e39b8c229bdd4474c1c7dccbfafca00b38475",
+      "sha256_gzip": "22c171bf4c8f5f86ff7e80c63164681cf9ef2a40086c235f22536df5ec885923"
+    },
+    {
+      "name": "Flares",
+      "path": "Flares.json.gz",
+      "language": "es",
+      "tier": "L1",
+      "annotation": "人工 5W1H",
+      "records": 1582,
+      "events": 1582,
+      "clusters": 1582,
+      "sha256_json": "9ad4f9b35b13c3fe7a1549a70585be8b91ded30f0019d4515c202017c4048a74",
+      "sha256_gzip": "05c195d6b9843c0d40493008fcdfc749bce31ff64957d88025438e40b40167bd"
+    },
+    {
+      "name": "FrameNet",
+      "path": "FrameNet.json.gz",
+      "language": "en",
+      "tier": "L3",
+      "annotation": "原始框架标注→映射及 AI 校验",
+      "records": 13,
+      "events": 18,
+      "clusters": 13,
+      "sha256_json": "bfa47f9080a47ab4fff26539f0f01b9db1da6d909f5669833cc4feb8ae6ebe09",
+      "sha256_gzip": "b4016f3335dfa03d0ffb1d9998f28557e0acea8c947aaf5848a7e2232ede61a6"
+    },
+    {
+      "name": "Giveme5W1H",
+      "path": "Giveme5W1H.json.gz",
+      "language": "en",
+      "tier": "L1",
+      "annotation": "人工 5W1H",
+      "records": 96,
+      "events": 96,
+      "clusters": 96,
+      "sha256_json": "676466f143dde2357533fa4cd3cb56645f4a0dc510728e3331db89c69591b819",
+      "sha256_gzip": "b7206be453d9c9c29dd01ee23be19ed22c869aaff282b048274a9012b231394b"
+    },
+    {
+      "name": "OEE",
+      "path": "OEE.json.gz",
+      "language": "zh",
+      "tier": "L3",
+      "annotation": "原始事件标注→映射及 AI 校验",
+      "records": 7,
+      "events": 29,
+      "clusters": 16,
+      "sha256_json": "a8402a54ff491f67b128912b8415c607db0e681ca9a54d6cd240c9dbd32a4da6",
+      "sha256_gzip": "5ff358b790d3be2677bfb5ad1b39d94cd14f1486e123cbf5a2a3425b40c8b09a"
+    },
+    {
+      "name": "PHEE",
+      "path": "PHEE.json.gz",
+      "language": "en",
+      "tier": "L3",
+      "annotation": "原始事件标注→映射及 AI 校验",
+      "records": 28,
+      "events": 34,
+      "clusters": 29,
+      "sha256_json": "ceb19519f6c82909fc6aeaddeedf6b8614124d96ca83548fe2853e5d1dea3780",
+      "sha256_gzip": "da6799dd8f4171d2e5db4e984fcf24ef2969ea44b31f22d74ffb07f641168212"
+    }
+  ]
+}
