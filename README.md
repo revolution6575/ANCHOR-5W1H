@@ -1,16 +1,16 @@
 # ANCHOR-5W1H
 
-ANCHOR-5W1H 从中文、英文和西班牙文文档中抽取事件。每个事件包含触发词、主事件标记和 WHO、WHAT、WHEN、WHERE、WHY、HOW 六个角色的原文片段。字符偏移采用左闭右开区间，`text[start:end]` 对应原文。
+ANCHOR-5W1H extracts events from Chinese, English, and Spanish documents. For each event, it identifies the trigger, marks whether the event is the main event, and extracts source spans for the WHO, WHAT, WHEN, WHERE, WHY, and HOW roles. Character offsets use an exclusive end index, so `text[start:end]` returns the original span.
 
-## 方法
+## Method
 
-语言模型先提出最多五个候选事件。针对每个触发词，用一次请求按 **WHO → WHEN → WHERE → WHAT** 的顺序生成初稿。前三项帮助区分同一文档中的事件，WHAT 从原文截取核心动作或状态，保留必要论元、否定和情态。随后根据触发词、位置、角色覆盖和事件关系评分，最多保留三个事件，并标出主事件。
+The language model proposes up to five candidate events. For each trigger, it drafts four roles in a single request, in the order **WHO → WHEN → WHERE → WHAT**. The first three roles help distinguish events in the same document. For WHAT, the model selects the span that expresses the central action or state, including its necessary arguments, negation, and modality. The system scores candidates using trigger salience, position in the document, role coverage, and relations between events. It retains up to three events and marks the highest-scoring one as the main event.
 
-mmBERT 按 512 token 分窗编码全文，相邻窗口重叠 128 token。对每个保留事件，4W 边界头提出候选片段，与句法候选和已定位的初稿片段合并。语言模型再用一次请求联合修订四个角色。WHY 和 HOW 由独立的判别头给出，使用修订后的事件表示和同一份文档编码。
+mmBERT encodes the document in 512-token windows with a 128-token overlap. For each retained event, the system combines spans proposed by the 4W boundary heads with spans from the syntactic parse and draft spans located in the source text. The language model then refines all four roles together in one request per event. Separate prediction heads extract WHY and HOW using the refined event representation and the same document encoding.
 
-## 安装
+## Installation
 
-需要 Python 3.10 或更高版本。安装依赖后，按输入语种下载对应的 spaCy 模型。
+Use Python 3.10 or later. Install the dependencies and download the spaCy models for the languages you plan to process.
 
 ```shell
 python -m pip install -r requirements.txt
@@ -19,9 +19,9 @@ python -m spacy download en_core_web_sm
 python -m spacy download es_core_news_sm
 ```
 
-## 运行
+## Usage
 
-在 `config/anchor.json` 中设置兼容 Chat Completions 的服务地址、模型名和权重路径。服务密钥可通过环境变量 `ANCHOR_API_KEY` 传入。判别器和 4W 边界头需自行训练或提供配套权重，默认目录分别为 `checkpoints/discriminator/` 和 `checkpoints/four_w/`。[训练说明](training/README.md)
+Set the Chat Completions-compatible endpoint, model name, and checkpoint paths in `config/anchor.json`. If the endpoint requires an API key, set `ANCHOR_API_KEY`. Inference requires matching weights for the discriminator and the 4W boundary heads. You can train them or supply existing checkpoints. The default directories are `checkpoints/discriminator/` and `checkpoints/four_w/`, respectively. [Training instructions](training/README.md)
 
 ```shell
 python -m ceh.runner --input examples/documents.jsonl --tag example
@@ -29,11 +29,11 @@ python -m ceh.runner --corpus CEC,DEIE --limit 1 --tag sample
 python -m ceh.runner --corpus all --tag all-corpora
 ```
 
-自定义输入为 JSONL，每行包含 `doc_id`、`text` 和 `lang`（`zh`、`en` 或 `es`）。`--limit` 指每个语料读取的文档数。结果保存在 `outputs/raw/<tag>/`，使用相同输入和配置时可加 `--resume` 续跑。
+For custom input, provide a JSONL file with one document per line. Each document needs `doc_id`, `text`, and `lang` (`zh`, `en`, or `es`). The `--limit` option sets the maximum number of documents read per corpus. Results are written to `outputs/raw/<tag>/`. Use `--resume` to continue a run with the same input and configuration.
 
-## 数据
+## Data
 
-`datasets/` 收录十个语料，共 26,110 篇文档、82,286 个事件。可按语料名读取原文和标注。[语料来源与切分](datasets/README.md)
+The `datasets/` directory contains ten corpora with 26,110 documents and 82,286 annotated events. Use a corpus name to read its texts and annotations. [Corpus sources and splits](datasets/README.md)
 
 ```python
 from bench.release import records
