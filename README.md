@@ -22,7 +22,7 @@ python -m spacy download es_core_news_sm
 
 ## Usage
 
-Set the Chat Completions-compatible endpoint, model name, and checkpoint paths in `config/anchor.json`. If the endpoint requires an API key, set `ANCHOR_API_KEY`. Inference requires matching weights for the discriminator and the 4W boundary heads. You can train them or supply existing checkpoints. The default directories are `checkpoints/discriminator/` and `checkpoints/four_w/`, respectively. [Training instructions](training/README.md)
+Set the Chat Completions-compatible endpoint, model name, and checkpoint paths in `config/anchor.json`. If the endpoint requires an API key, set `ANCHOR_API_KEY`. Inference requires matching weights for the discriminator and the 4W boundary heads. You can train them or supply existing checkpoints. The default directories are `checkpoints/discriminator/` and `checkpoints/four_w/`, respectively. [Training scripts](training/)
 
 ```shell
 python -m ceh.runner --input examples/documents.jsonl --tag example
